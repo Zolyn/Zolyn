@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   - Linux
   - Electron
 
-- 我的博客：[Arcadia](https://blog.zorinchan.icu)
-- 我的愿望：
+- 🔭 我的博客：[Arcadia](https://blog.zorinchan.icu)
+- 🤔 我的愿望：
 ```js
 while (true) {
   hapiness++;
@@ -38,10 +38,12 @@ while (true) {
 }
 ```
 
-- 学术交流：[Gitter](https://gitter.im/Zolynsroom/community)
-- 取得联系：
+- 💬 学术交流：[Gitter](https://gitter.im/Zolynsroom/community)
+- 📫 取得联系：
   - [邮箱](mailto:zorin1477@gmail.com)
   - [哔哩哔哩](https://space.bilibili.com/163044485)
+
+- ⚡ 未知字符串：`'Mxqlru kljk vfkrro vwxghqw.'`
 
 我的Github个人状态 | 语言使用占比
 
