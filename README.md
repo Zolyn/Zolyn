@@ -49,12 +49,3 @@ while (true) {
 
 ![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolyn&layout=compact&theme=buefy)
-
-我的仓库
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolyn&repo=Arcadia&theme=buefy)](https://github.com/Zolyn/Arcadia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolyn&repo=vuepress-plugin-rightmenu&theme=buefy)](https://github.com/Zolyn/vuepress-plugin-rightmenu)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolyn&repo=vuepress-plugin-waline&theme=buefy)](https://github.com/Zolyn/vuepress-plugin-waline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolyn&repo=Photinia&theme=buefy)](https://github.com/Zolyn/Photinia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolyn&repo=MangaCrawler&theme=buefy)](https://github.com/Zolyn/MangaCrawler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zolyn&repo=i3-video-wallpaper&theme=buefy)](https://github.com/Zolyn/i3-video-wallpaper)
