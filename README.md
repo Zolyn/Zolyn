@@ -18,14 +18,17 @@ Here are some ideas to get you started:
 
 感谢你能来看我这个小菜鸡，我是一位又菜又爱折腾，爱挖坑不爱填坑的屑学生
 
-- 🌱 我正在学习的语言 / 框架 / ...
+- 🔭 我目前正在做 Vue, TypeScript, JavaScirpt 以及Node.js相关的项目
+- 🌱 我正在学习的语言 / 框架 / ... (因学业繁忙，进度十分缓慢 :L)
   - Vue
   - TypeScript
   - JavaScript
   - Node.js
   - CSS
-  - Linux
-  - Electron
+  - Linux (有生之年)
+  - Electron (有生之年)
+  - Dart (有生之年)
+  - Flutter (有生之年)
 
 - 🔭 我的博客：[Arcadia](https://blog.zorinchan.icu)
 - 🤔 我的愿望：
@@ -38,10 +41,13 @@ while (true) {
 }
 ```
 
-- 💬 学术交流：[Gitter](https://gitter.im/Zolynsroom/community)
+- 💬 学术交流：
+  - [Gitter](https://gitter.im/Zolynsroom/community)
+  - [Slack](https://join.slack.com/t/zolynsroom/shared_invite/zt-qduxkcjo-luatl0pAMP_HIuamtBO0yg)
 - 📫 取得联系：
   - [邮箱](mailto:zorin1477@gmail.com)
   - [哔哩哔哩](https://space.bilibili.com/163044485)
+  - [网易云音乐](https://music.163.com/#/user/home?id=416843684)
 
 - ⚡ 未知字符串：`'Mxqlru kljk vfkrro vwxghqw.'`
 
