@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 我是Zorin，你可以叫我佐凛
 
-感谢你能来看我这个小菜鸡，我是一位又菜又爱折腾，爱挖坑不爱填坑的屑学生
+感谢你发现了我这个小菜鸡，我是一位又菜又爱折腾，爱挖坑不爱填坑的屑学生
 
 - 🔭 我目前正在做 Vue, TypeScript, JavaScirpt 以及Node.js相关的项目
-- 🌱 我正在学习的语言 / 框架 / ... (因学业繁忙，进度十分缓慢 :L)
+- 🌱 我正在学习的语言 / 框架 / ...
   - Vue
   - TypeScript
   - JavaScript
