@@ -40,6 +40,6 @@ Here are some ideas to get you started:
   - [哔哩哔哩](https://space.bilibili.com/163044485)
   - [网易云音乐](https://music.163.com/#/user/home?id=416843684)
 
-我的Github个人状态
+- [请我喝一杯奶茶](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
 
 ![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
