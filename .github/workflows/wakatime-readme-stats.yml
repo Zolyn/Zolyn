@@ -3,7 +3,7 @@ name: Waka Readme Stats
 on:
   schedule:
     # Runs at 00:00 UTC+8 every day.
-    - cron: '0 16 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 jobs:
   update-readme-stats:
