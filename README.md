@@ -45,4 +45,62 @@
 
 ### Wakatime 统计 :clock12:
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
+🌆 Daytime    206 commits    █████░░░░░░░░░░░░░░░░░░░░   23.28% 
+🌃 Evening    447 commits    ████████████░░░░░░░░░░░░░   50.51% 
+🌙 Night      188 commits    █████░░░░░░░░░░░░░░░░░░░░   21.24%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Tuesday      118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Wednesday    60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+Thursday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+Friday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Saturday     187 commits    █████░░░░░░░░░░░░░░░░░░░░   21.13% 
+Sunday       215 commits    ██████░░░░░░░░░░░░░░░░░░░   24.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
