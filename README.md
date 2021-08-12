@@ -41,4 +41,78 @@
 ![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
 ---
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
+
+**🐱 我的 GitHub 数据** 
+
+> 🏆 845 今年的贡献 2021
+ > 
+> 📦 159.6 kB 占用了 GitHub 内存 
+ > 
+> 🚫 不开放招聘
+ > 
+> 📜 31 公共仓库 
+ > 
+> 🔑 0 私人仓库  
+ > 
+**我是晚睡的 🦉** 
+
+```text
+🌞 早晨         44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+🌆 白天         206 commits    █████░░░░░░░░░░░░░░░░░░░░   23.41% 
+🌃 傍晚         442 commits    ████████████░░░░░░░░░░░░░   50.23% 
+🌙 晚上         188 commits    █████░░░░░░░░░░░░░░░░░░░░   21.36%
+
+```
+📅 **我最有效率是 星期天** 
+
+```text
+星期一          122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
+星期二          118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+星期三          60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+星期四          70 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
+星期五          108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
+星期六          187 commits    █████░░░░░░░░░░░░░░░░░░░░   21.25% 
+星期天          215 commits    ██████░░░░░░░░░░░░░░░░░░░   24.43%
+
+```
+
+
+📊 **这周我的时间花在了** 
+
+```text
+⌚︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+本周没有记录任何活动
+
+🔥 编辑器: 
+本周没有记录任何活动
+
+🐱‍💻 项目: 
+本周没有记录任何活动
+
+💻 操作系统: 
+本周没有记录任何活动
+
+```
+
+**我主要编写 JavaScript** 
+
+```text
+JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+**时间线**
+
+![Chart not found](https://raw.githubusercontent.com/Zolyn/Zolyn/main/charts/bar_graph.png) 
+
+
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
