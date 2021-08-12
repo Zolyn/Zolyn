@@ -5,8 +5,6 @@
 ### 目前着手的项目 :telescope:
 目前正在忙于 [Epiphyllum](https://github.com/Zolyn/Epiphyllum) 项目
 
-<img align="right" width="280px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
-
 ### 正在学习的语言 / 框架 / ... :seedling:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,6 +18,8 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 (因为爱摸鱼所以目前没学多少hhh)
+
+<img align="right" width="280px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
 
 ### 博客 :house:
 [![Arcadia](https://shields.io/badge/arcadia-377bb5?style=for-the-badge&logoColor=white)](https://blog.zorinchan.icu)
@@ -37,12 +37,11 @@
 [![NeteaseCloudMusic](https://shields.io/badge/网易云音乐-9b0909?style=for-the-badge&logoColor=white)](https://music.163.com/#/user/home?id=416843684)
 
 ### [肚肚饿饿，想次饭饭](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
-
 ---
 
-### Github 个人状态
+### Github 个人状态 :information_source:
 ![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
 
-### Wakatime 统计
+### Wakatime 统计 :clock12:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
