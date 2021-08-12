@@ -39,3 +39,6 @@
 ### [肚肚饿饿，想次饭饭](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
 
 ![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
