@@ -32,10 +32,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zorin1477@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YumeotoZorin)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YumeotoZorin)
-
+[![BiliBili](https://shields.io/badge/bilibili-008acc?logo=bilibili&style=for-the-badge&logoColor=white)](https://space.bilibili.com/163044485)
 
 [![NeteaseCloudMusic](https://shields.io/badge/网易云音乐-9b0909?style=for-the-badge&logoColor=white)](https://music.163.com/#/user/home?id=416843684)
-[![BiliBili](https://shields.io/badge/bilibili-008acc?logo=bilibili&style=for-the-badge&logoColor=white)](https://space.bilibili.com/163044485)
 [![Zhihu](https://img.shields.io/badge/zhihu-0066ff.svg?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zolyn7)
 
 ### [肚肚饿饿，想次饭饭](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
