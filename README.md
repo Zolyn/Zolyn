@@ -1,11 +1,9 @@
-## :sparkles: 啊嘞，被发现啦
+## :sparkles: 啊嘞？被发现啦~
 
 这里是 Zorin，一个只挖坑不填坑还很菜的屑，你可以叫我佐凛
 
 ### 目前着手的项目 :telescope:
 目前正在忙于 [Epiphyllum](https://github.com/Zolyn/Epiphyllum) 项目
-
-<img align="right" width="280px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
 
 ### 正在学习的语言 / 框架 / ... :seedling:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -21,6 +19,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 (因为爱摸鱼所以目前没学多少hhh)
 
+<img align="right" width="280px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
+
 ### 博客 :house:
 [![Arcadia](https://shields.io/badge/arcadia-377bb5?style=flat-square&logoColor=white)](https://blog.zorinchan.icu)
 
@@ -30,19 +30,77 @@
 
 ### 联系方式 :mailbox:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zorin1477@gmail.com)
-[![BiliBili](https://shields.io/badge/bilibili-008acc?logo=bilibili&style=flat-square&logoColor=white)](https://space.bilibili.com/163044485)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YumeotoZorin)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YumeotoZorin)
-[![Zhihu](https://img.shields.io/badge/zhihu-0066ff.svg?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zolyn7)
+[![BiliBili](https://shields.io/badge/bilibili-008acc?logo=bilibili&style=flat-square&logoColor=white)](https://space.bilibili.com/163044485)
+
 [![NeteaseCloudMusic](https://shields.io/badge/网易云音乐-9b0909?style=flat-square&logoColor=white)](https://music.163.com/#/user/home?id=416843684)
+[![Zhihu](https://img.shields.io/badge/zhihu-0066ff.svg?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zolyn7)
 
 ### [肚肚饿饿，想次饭饭](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
-
 ---
 
-### Github 个人状态
+### Github 个人状态 :information_source:
 ![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
 
-### Wakatime 统计
+### Wakatime 统计 :clock12:
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
+🌆 Daytime    206 commits    █████░░░░░░░░░░░░░░░░░░░░   23.28% 
+🌃 Evening    447 commits    ████████████░░░░░░░░░░░░░   50.51% 
+🌙 Night      188 commits    █████░░░░░░░░░░░░░░░░░░░░   21.24%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Tuesday      118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Wednesday    60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+Thursday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+Friday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Saturday     187 commits    █████░░░░░░░░░░░░░░░░░░░░   21.13% 
+Sunday       215 commits    ██████░░░░░░░░░░░░░░░░░░░   24.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
