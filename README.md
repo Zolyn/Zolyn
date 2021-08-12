@@ -1,9 +1,11 @@
-## :sparkles: 啊啦，被发现了呢
+## :sparkles: 啊嘞，被发现啦
 
-这里是 Zorin，一位只挖坑不填坑还很菜的屑，你可以叫我佐凛
+这里是 Zorin，一个只挖坑不填坑还很菜的屑，你可以叫我佐凛
 
 ### 目前着手的项目 :telescope:
 目前正在忙于 [Epiphyllum](https://github.com/Zolyn/Epiphyllum) 项目
+
+<img align="right" width="280px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
 
 ### 正在学习的语言 / 框架 / ... :seedling:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,8 +31,11 @@
 ### 联系方式 :mailbox:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zorin1477@gmail.com)
 [![BiliBili](https://shields.io/badge/bilibili-008acc?logo=bilibili&style=for-the-badge&logoColor=white)](https://space.bilibili.com/163044485)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YumeotoZorin)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YumeotoZorin)
+[![Zhihu](https://img.shields.io/badge/zhihu-0066ff.svg?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zolyn7)
 [![NeteaseCloudMusic](https://shields.io/badge/网易云音乐-9b0909?style=for-the-badge&logoColor=white)](https://music.163.com/#/user/home?id=416843684)
 
-- [请我喝一杯奶茶](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
+### [肚肚饿饿，想次饭饭](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
 
 ![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
