@@ -45,27 +45,25 @@
 
 ### Wakatime 统计 :clock12:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.5% 
-🌆 Daytime    209 commits    █████░░░░░░░░░░░░░░░░░░░░   22.99% 
-🌃 Evening    456 commits    ████████████░░░░░░░░░░░░░   50.17% 
-🌙 Night      194 commits    █████░░░░░░░░░░░░░░░░░░░░   21.34%
+🌞 Morning    50 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
+🌆 Daytime    211 commits    █████░░░░░░░░░░░░░░░░░░░░   23.16% 
+🌃 Evening    456 commits    ████████████░░░░░░░░░░░░░   50.05% 
+🌙 Night      194 commits    █████░░░░░░░░░░░░░░░░░░░░   21.3%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
-Tuesday      118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
-Wednesday    60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-Thursday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
-Friday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-Saturday     193 commits    █████░░░░░░░░░░░░░░░░░░░░   21.23% 
-Sunday       215 commits    ██████░░░░░░░░░░░░░░░░░░░   23.65%
+Monday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
+Tuesday      118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Wednesday    60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
+Thursday     81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
+Friday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
+Saturday     195 commits    █████░░░░░░░░░░░░░░░░░░░░   21.41% 
+Sunday       215 commits    ██████░░░░░░░░░░░░░░░░░░░   23.6%
 
 ```
 
