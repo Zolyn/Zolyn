@@ -1,6 +1,6 @@
 ## :sparkles: 啊嘞？被发现啦~
 
-这里是 Zorin，一个只挖坑不填坑还很菜的屑，你可以叫我佐凛
+这里是 Zorin，一个只挖坑不填坑还很菜的屑学生，你可以叫我佐凛
 
 ### 目前着手的项目 :telescope:
 目前正在忙于 [Epiphyllum](https://github.com/Zolyn/Epiphyllum) 项目
