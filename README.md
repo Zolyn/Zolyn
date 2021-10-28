@@ -1,6 +1,6 @@
-## :sparkles: 啊嘞？被发现啦~
+## :sparkles: 氦
 
-这里是 Zorin，一个只挖坑不填坑还很菜的屑学生，你可以叫我佐凛
+这里是 Zorin（佐凛），铁废物一个
 
 ### 目前着手的项目 :telescope:
 目前正在忙于 [Epiphyllum](https://github.com/Zolyn/Epiphyllum) 项目
@@ -37,7 +37,7 @@
 [![NeteaseCloudMusic](https://shields.io/badge/网易云音乐-9b0909?style=for-the-badge&logoColor=white)](https://music.163.com/#/user/home?id=416843684)
 [![Zhihu](https://img.shields.io/badge/zhihu-0066ff.svg?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zolyn7)
 
-### [肚肚饿饿，想次饭饭](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
+#### [请我喝一杯奶茶](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
 ---
 
 ### Github 个人状态 :information_source:
