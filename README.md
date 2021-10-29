@@ -17,6 +17,8 @@ This is Zorin, an ordinary middle school student.
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 
 ## Work environment
+<img align="right" width="240px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
+
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
@@ -35,3 +37,15 @@ This is Zorin, an ordinary middle school student.
 [![BiliBili](https://shields.io/badge/Bilibili-008acc?logo=bilibili&style=flat-square&logoColor=white)](https://space.bilibili.com/163044485)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0066ff.svg?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zolyn7)
 [![NeteaseCloudMusic](https://shields.io/badge/NeteaseCloudMusic-9b0909?style=flat-square&logoColor=white)](https://music.163.com/#/user/home?id=416843684)
+
+## Donation
+[Buy me a cup of milk tea](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
+
+## Analytics
+### Github Readme Stats
+![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
+
+### Wakatime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
