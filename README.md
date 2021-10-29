@@ -47,5 +47,70 @@ This is Zorin, an ordinary middle school student.
 
 ### Wakatime
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    69 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
+🌆 Daytime    239 commits    ██████░░░░░░░░░░░░░░░░░░░   24.36% 
+🌃 Evening    469 commits    ████████████░░░░░░░░░░░░░   47.81% 
+🌙 Night      204 commits    █████░░░░░░░░░░░░░░░░░░░░   20.8%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Tuesday      125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
+Wednesday    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
+Thursday     66 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
+Friday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Saturday     203 commits    █████░░░░░░░░░░░░░░░░░░░░   20.69% 
+Sunday       245 commits    ██████░░░░░░░░░░░░░░░░░░░   24.97%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               5 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.44% 
+Other                    4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.74% 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.99% 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
+Vue.js                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
+
+🔥 Editors: 
+WebStorm                 7 hrs 20 mins       ███████████████░░░░░░░░░░   60.69% 
+Browser                  4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   39.31%
+
+🐱‍💻 Projects: 
+decoratorDemo            8 hrs 25 mins       █████████████████░░░░░░░░   69.54% 
+pinia-store-decorators   2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   22.83% 
+Elinoa                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
+Epiphyllum               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+
+💻 Operating System: 
+Linux                    12 hrs 6 mins       █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+Vue                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+```
+
+
+
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
