@@ -62,8 +62,8 @@ This is Zorin, an ordinary middle school student.
 Monday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
 Tuesday      125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
 Wednesday    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
-Thursday     67 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.83% 
-Friday       132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
+Thursday     66 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
+Friday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
 Saturday     203 commits    █████░░░░░░░░░░░░░░░░░░░░   20.69% 
 Sunday       245 commits    ██████░░░░░░░░░░░░░░░░░░░   24.97%
 
