@@ -15,6 +15,7 @@ This is Zorin, an ordinary middle school student.
 ![Electron.js](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324)
 
 ## Work environment
 <img align="right" width="240px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
