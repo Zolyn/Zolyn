@@ -48,6 +48,8 @@ This is Zorin, an ordinary middle school student.
 
 ### Wakatime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%205%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -60,8 +62,8 @@ This is Zorin, an ordinary middle school student.
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Tuesday      127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Monday       132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
+Tuesday      126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
 Wednesday    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
 Thursday     70 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
 Friday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
