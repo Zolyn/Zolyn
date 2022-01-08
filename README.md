@@ -48,27 +48,25 @@ This is Zorin, an ordinary middle school student.
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%205%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
-🌆 Daytime    234 commits    █████░░░░░░░░░░░░░░░░░░░░   23.42% 
-🌃 Evening    480 commits    ████████████░░░░░░░░░░░░░   48.05% 
-🌙 Night      214 commits    █████░░░░░░░░░░░░░░░░░░░░   21.42%
+🌞 Morning    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
+🌆 Daytime    234 commits    █████░░░░░░░░░░░░░░░░░░░░   23.38% 
+🌃 Evening    481 commits    ████████████░░░░░░░░░░░░░   48.05% 
+🌙 Night      215 commits    █████░░░░░░░░░░░░░░░░░░░░   21.48%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
-Tuesday      128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
-Wednesday    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-Thursday     71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
-Friday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-Saturday     219 commits    █████░░░░░░░░░░░░░░░░░░░░   21.92% 
-Sunday       242 commits    ██████░░░░░░░░░░░░░░░░░░░   24.22%
+Monday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Tuesday      128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
+Wednesday    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+Thursday     71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
+Friday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
+Saturday     220 commits    █████░░░░░░░░░░░░░░░░░░░░   21.98% 
+Sunday       244 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38%
 
 ```
 
@@ -95,11 +93,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
