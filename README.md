@@ -17,21 +17,21 @@ This is Zorin, an ordinary middle school student.
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324)
 
-## Work environment
+## My work environment
 <img align="right" width="240px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
 
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
 
-## Blog
-[![Arcadia](https://shields.io/badge/Arcadia-377bb5?style=flat-square&logoColor=white)](https://blog.zorinchan.icu)
+## My blog
+[![Arcadia](https://shields.io/badge/Arcadia-377bb5?style=flat-square&logoColor=white)](https://blog.zorin.icu)
 
 ## Chat room
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/zolynsroom/shared_invite/zt-qduxkcjo-luatl0pAMP_HIuamtBO0yg)
 [![Gitter](https://shields.io/badge/Gitter-ed1965?logo=gitter&style=flat-square&logoColor=white)](https://gitter.im/Zolynsroom/community)
 
-## Contact
+## Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zorin1477@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YumeotoZorin)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YumeotoZorin)
@@ -43,8 +43,12 @@ This is Zorin, an ordinary middle school student.
 [Buy me a cup of milk tea](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
 
 ## Analytics
+### Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zolyn&theme=react-dark&hide_border=true)
+
 ### Github Readme Stats
-![Zorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&theme=buefy)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolyn&layout=compact&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117)
 
 ### Wakatime
 <!--START_SECTION:waka-->
