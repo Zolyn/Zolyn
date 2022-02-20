@@ -52,6 +52,8 @@ This is Zorin, an ordinary middle school student.
 
 ### Wakatime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
@@ -61,15 +63,15 @@ This is Zorin, an ordinary middle school student.
 ```text
 🌞 Morning    67 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
 🌆 Daytime    242 commits    ██████░░░░░░░░░░░░░░░░░░░   24.06% 
-🌃 Evening    490 commits    ████████████░░░░░░░░░░░░░   48.71% 
-🌙 Night      207 commits    █████░░░░░░░░░░░░░░░░░░░░   20.58%
+🌃 Evening    489 commits    ████████████░░░░░░░░░░░░░   48.61% 
+🌙 Night      208 commits    █████░░░░░░░░░░░░░░░░░░░░   20.68%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
-Tuesday      118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Monday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.72% 
+Tuesday      117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
 Wednesday    103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
 Thursday     76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
 Friday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
@@ -85,20 +87,20 @@ Sunday       236 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 29 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  4 hrs 29 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Ephemeres [GitHub]       4 hrs 29 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 29 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 20/02/2022 18:28:32 UTC
+ Last Updated on 20/02/2022 21:23:51 UTC
 <!--END_SECTION:waka-->
 
