@@ -44,12 +44,17 @@ This is Zorin, an ordinary middle school student.
 [Buy me a cup of milk tea](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
 
 ## Analytics
-### Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zolyn&theme=react-dark&hide_border=true)
+### Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Zolyn&theme=react-dark&hide_border=true)
 
 ### Github Readme Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolyn&layout=compact&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117)
+<div class="readme-stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117" alt="Github Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zolyn&layout=compact&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
+ </div>
+
+### Profile Views
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=zolyn.zolyn&left_text=Profile%20Views)
 
 ### Wakatime
 <!--START_SECTION:waka-->
@@ -114,4 +119,3 @@ Linux                    73 hrs 30 mins      ███████████�
 
  Last Updated on 12/03/2022 03:26:34 UTC
 <!--END_SECTION:waka-->
-
