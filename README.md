@@ -121,3 +121,7 @@ Linux                    83 hrs 2 mins       ███████████�
 ### Steam
 <!-- steam-box start -->
 <!-- steam-box end -->
+
+### Netease Cloud Music
+<!-- netease-music-box start -->
+<!-- netease-music-box end -->
