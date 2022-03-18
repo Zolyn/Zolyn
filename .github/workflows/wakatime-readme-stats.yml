@@ -18,5 +18,6 @@ jobs:
           SHOW_SHORT_INFO: 'False'
           SHOW_LOC_CHART: 'False'
           COMMIT_BY_ME: 'True'
+          SHOW_PROFILE_VIEW: 'False'
           SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_LINES_OF_CODE: 'True'
