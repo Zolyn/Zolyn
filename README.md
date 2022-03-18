@@ -118,6 +118,15 @@ Linux                    83 hrs 2 mins       ███████████�
 
 ### Steam
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/0587f590dfdf6947c604e79af7bd36f6" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Counter-Strike: Global Offensive 🕘 157 hrs 23 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 143 hrs 12 mins
+💻 Wallpaper Engine                 🕘 33 hrs 42 mins
+🎮 Live2DViewerEX                   🕘 23 hrs 41 mins
+🎮 NEEDY GIRL OVERDOSE              🕘 3 hrs 23 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 ### Netease Cloud Music
