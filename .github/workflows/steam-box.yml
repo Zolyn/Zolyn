@@ -13,7 +13,7 @@ jobs:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN: ${{ secrets.GH_BOX_TOKEN }}
       GIST_ID: 0587f590dfdf6947c604e79af7bd36f6
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
