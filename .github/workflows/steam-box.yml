@@ -2,9 +2,7 @@ name: Update steam playtime
 
 on:
   push:
-    branches: [master]
-  pull_request:
-    branches: [master]
+    branches: [main]
   schedule:
     - cron: "15 */3 * * *"
 
@@ -36,7 +34,7 @@ jobs:
           mv ./steam ../ && cd .. && rm -rf steam-box/
       - name: Commit and push
         run: |-
-          cd ./steam
+          ./steam
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
