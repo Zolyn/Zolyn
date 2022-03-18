@@ -49,8 +49,8 @@ This is Zorin, an ordinary middle school student.
 
 ### Github Readme Stats
 <div class="readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117" alt="Github Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zolyn&layout=compact&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117" alt="Github Stats" />
+   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zolyn&layout=compact&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
  </div>
 
 ### Profile Views
