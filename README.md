@@ -131,6 +131,7 @@ Linux                    83 hrs 2 mins       ███████████�
 
 ### Netease Cloud Music
 <!-- netease-music-box start -->
+#### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. 純情アンビバレンス - La priere  ·  5 plays
 2. Kissing Lucifer - ETIA.  ·  5 plays
@@ -143,4 +144,5 @@ Linux                    83 hrs 2 mins       ███████████�
 9. Ascension of angel - Aiobahn  ·  5 plays
 10. 天使は感動する - Aiobahn  ·  5 plays
 ```
+Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
