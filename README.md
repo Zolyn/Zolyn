@@ -128,7 +128,7 @@ Linux                    72 hrs 46 mins      ███████████�
 🎮 Live2DViewerEX                   🕘 23 hrs 41 mins
 🎮 NEEDY GIRL OVERDOSE              🕘 3 hrs 23 mins
 ```
-Powered by [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) .
+Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- steam-box end -->
 
 ### Netease Cloud Music
