@@ -138,11 +138,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 3. Ascension of angel - Aiobahn  ·  6 plays
 4. 天使でも喜んじゃいます - Aiobahn  ·  6 plays
 5. Angel fall down - Aiobahn  ·  6 plays
-6. 純情アンビバレンス - La priere  ·  5 plays
-7. Angel emotion - Aiobahn  ·  5 plays
-8. INTERNET OVERDOSE (8bit) - Aiobahn  ·  5 plays
-9. ニセモノの幸せだけど - Aiobahn  ·  5 plays
-10. Angel yamu - Aiobahn  ·  5 plays
+6. Eternity - CHYUCE  ·  6 plays
+7. パライソ・パライソ - 棗いつき/藍月なくる  ·  6 plays
+8. N E O N L A M P - CHYUCE/2088Official  ·  6 plays
+9. 純情アンビバレンス - La priere  ·  5 plays
+10. Kissing Lucifer - ETIA.  ·  5 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
