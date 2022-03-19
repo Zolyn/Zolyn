@@ -1,8 +1,6 @@
 name: Update steam playtime
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "15 */3 * * *"
 
