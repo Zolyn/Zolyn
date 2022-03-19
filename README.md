@@ -135,16 +135,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. 純情アンビバレンス - La priere  ·  4 plays
-2. Kissing Lucifer - ETIA.  ·  4 plays
-3. Angel emotion - Aiobahn  ·  4 plays
-4. INTERNET OVERDOSE (8bit) - Aiobahn  ·  4 plays
-5. やっぱり天使なんていなかったね - Aiobahn  ·  4 plays
-6. ニセモノの幸せだけど - Aiobahn  ·  4 plays
-7. Angel yamu - Aiobahn  ·  4 plays
-8. Angel boring - Aiobahn  ·  4 plays
-9. Angel rests - Aiobahn  ·  4 plays
-10. Do you love me? - Aiobahn  ·  4 plays
+1. INTERNET OVERDOSE (8bit) - Aiobahn  ·  5 plays
+2. やっぱり天使なんていなかったね - Aiobahn  ·  5 plays
+3. Angel yamu - Aiobahn  ·  5 plays
+4. Angel boring - Aiobahn  ·  5 plays
+5. Angel rests - Aiobahn  ·  5 plays
+6. Do you love me? - Aiobahn  ·  5 plays
+7. Ascension of angel - Aiobahn  ·  5 plays
+8. 駄天 - Aiobahn  ·  5 plays
+9. 天使でも喜んじゃいます - Aiobahn  ·  5 plays
+10. Angel fall down - Aiobahn  ·  5 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
