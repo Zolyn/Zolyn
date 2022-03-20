@@ -135,16 +135,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. やっぱり天使なんていなかったね - Aiobahn  ·  6 plays
-2. Angel rests - Aiobahn  ·  6 plays
-3. Ascension of angel - Aiobahn  ·  6 plays
-4. 天使でも喜んじゃいます - Aiobahn  ·  6 plays
-5. Angel fall down - Aiobahn  ·  6 plays
-6. Eternity - CHYUCE  ·  6 plays
-7. パライソ・パライソ - 棗いつき/藍月なくる  ·  6 plays
-8. N E O N L A M P - CHYUCE/2088Official  ·  6 plays
-9. 純情アンビバレンス - La priere  ·  5 plays
-10. Kissing Lucifer - ETIA.  ·  5 plays
+1. Angel computer - Aiobahn  ·  4 plays
+2. Angel flight - Aiobahn  ·  4 plays
+3. Angel emotion - Aiobahn  ·  4 plays
+4. INTERNET OVERDOSE (8bit) - Aiobahn  ·  4 plays
+5. やっぱり天使なんていなかったね - Aiobahn  ·  4 plays
+6. ニセモノの幸せだけど - Aiobahn  ·  4 plays
+7. Angel yamu - Aiobahn  ·  4 plays
+8. Angel boring - Aiobahn  ·  4 plays
+9. Angel rests - Aiobahn  ·  4 plays
+10. Do you love me? - Aiobahn  ·  4 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
