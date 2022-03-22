@@ -134,16 +134,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Angel computer - Aiobahn  ·  4 plays
-2. Angel flight - Aiobahn  ·  4 plays
-3. Angel emotion - Aiobahn  ·  4 plays
-4. INTERNET OVERDOSE (8bit) - Aiobahn  ·  4 plays
-5. やっぱり天使なんていなかったね - Aiobahn  ·  4 plays
-6. ニセモノの幸せだけど - Aiobahn  ·  4 plays
-7. Angel yamu - Aiobahn  ·  4 plays
-8. Angel boring - Aiobahn  ·  4 plays
-9. Angel rests - Aiobahn  ·  4 plays
-10. Do you love me? - Aiobahn  ·  4 plays
+1. Mood - LBD Records/D_SmaO/Destiny&Bass  ·  3 plays
+2. Demo - LBD Records/8bite  ·  3 plays
+3. Pseudosphere - LBD Records/NOA  ·  3 plays
+4. Resurrection - LBD Records/Anasynth  ·  3 plays
+5. Manjusaka VIP - LBD Records/Litchee  ·  3 plays
+6. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  3 plays
+7. Powder Wonder - LBD Records/Miokio米欧  ·  3 plays
+8. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  3 plays
+9. Break This Dimension's Timeline - LBD Records/The_Wooden  ·  3 plays
+10. Angel computer - Aiobahn  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
