@@ -134,16 +134,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Mood - LBD Records/D_SmaO/Destiny&Bass  ·  4 plays
-2. Demo - LBD Records/8bite  ·  4 plays
-3. Pseudosphere - LBD Records/NOA  ·  4 plays
-4. Resurrection - LBD Records/Anasynth  ·  4 plays
-5. Manjusaka VIP - LBD Records/Litchee  ·  4 plays
-6. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  4 plays
-7. Powder Wonder - LBD Records/Miokio米欧  ·  4 plays
-8. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  4 plays
-9. Break This Dimension's Timeline - LBD Records/The_Wooden  ·  4 plays
-10. Angel computer - Aiobahn  ·  4 plays
+1. Angel computer - Aiobahn  ·  5 plays
+2. Angel flight - Aiobahn  ·  5 plays
+3. Angel emotion - Aiobahn  ·  5 plays
+4. Angel rests - Aiobahn  ·  5 plays
+5. Mood - LBD Records/D_SmaO/Destiny&Bass  ·  4 plays
+6. Demo - LBD Records/8bite  ·  4 plays
+7. Pseudosphere - LBD Records/NOA  ·  4 plays
+8. Resurrection - LBD Records/Anasynth  ·  4 plays
+9. Manjusaka VIP - LBD Records/Litchee  ·  4 plays
+10. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  4 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
