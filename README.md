@@ -136,12 +136,12 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 2. Angel flight - Aiobahn  ·  2 plays
 3. Angel emotion - Aiobahn  ·  2 plays
 4. Angel rests - Aiobahn  ·  2 plays
-5. In Search of Giants - melodysheep  ·  2 plays
-6. LHAHEIN (Instrumental) - Feryquitous/藍月なくる  ·  1 plays
-7. Trip Call - Feryquitous/藍月なくる  ·  1 plays
-8. LHAHEIN - Feryquitous/藍月なくる  ·  1 plays
-9. IdenTism - Feryquitous/藍月なくる  ·  1 plays
-10. レインライン - Feryquitous/藍月なくる  ·  1 plays
+5. LHAHEIN (Instrumental) - Feryquitous/藍月なくる  ·  1 plays
+6. Trip Call - Feryquitous/藍月なくる  ·  1 plays
+7. LHAHEIN - Feryquitous/藍月なくる  ·  1 plays
+8. IdenTism - Feryquitous/藍月なくる  ·  1 plays
+9. レインライン - Feryquitous/藍月なくる  ·  1 plays
+10. Lost Per Minutes - Feryquitous/藍月なくる  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
