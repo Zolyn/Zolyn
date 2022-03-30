@@ -58,8 +58,6 @@ This is Zorin, an ordinary middle school student.
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2028%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -76,10 +74,10 @@ This is Zorin, an ordinary middle school student.
 ```text
 Monday       159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
 Tuesday      135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-Wednesday    114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Wednesday    115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
 Thursday     70 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
 Friday       131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Saturday     232 commits    █████░░░░░░░░░░░░░░░░░░░░   21.23% 
+Saturday     231 commits    █████░░░░░░░░░░░░░░░░░░░░   21.13% 
 Sunday       252 commits    █████░░░░░░░░░░░░░░░░░░░░   23.06%
 
 ```
@@ -105,7 +103,7 @@ Linux                    4 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 30/03/2022 15:29:40 UTC
+ Last Updated on 30/03/2022 18:32:32 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
