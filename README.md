@@ -131,10 +131,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Angel computer - Aiobahn  ·  1 plays
-2. Angel flight - Aiobahn  ·  1 plays
-3. Angel emotion - Aiobahn  ·  1 plays
-4. Angel rests - Aiobahn  ·  1 plays
+1. Pseudosphere - LBD Records/NOA  ·  1 plays
+2. TEmPTaTiON - かねこちはる  ·  1 plays
+3. くうになる (feat. 可不) - MIMI/可不  ·  1 plays
+4. フォニイ - 可不/ツミキ  ·  1 plays
+5. ひみつのユーフォー - ナユタン星人/可不  ·  1 plays
+6. Compensation - Sennzai/Feryquitous  ·  1 plays
+7. Lure - Sennzai/Laur  ·  1 plays
+8. 可能性の少女 - Sennzai/塚越雄一朗  ·  1 plays
+9. RedemptioN - Sennzai/bermei.inazawa  ·  1 plays
+10. 思想＝夢想 - Sennzai/kidlit  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
