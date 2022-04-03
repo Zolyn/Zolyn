@@ -131,16 +131,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Pseudosphere - LBD Records/NOA  ·  1 plays
-2. TEmPTaTiON - かねこちはる  ·  1 plays
-3. くうになる (feat. 可不) - MIMI/可不  ·  1 plays
-4. Aura - melodysheep  ·  1 plays
-5. Becoming Giants - melodysheep  ·  1 plays
-6. Brotherhood - melodysheep  ·  1 plays
-7. The Game of Life - melodysheep  ·  1 plays
-8. Haven - melodysheep  ·  1 plays
-9. フォニイ - 可不/ツミキ  ·  1 plays
-10. ひみつのユーフォー - ナユタン星人/可不  ·  1 plays
+1. 懺悔録 - 黒木渚  ·  1 plays
+2. Xanadu - LBD Records/5LADE  ·  1 plays
+3. Pseudosphere - LBD Records/NOA  ·  1 plays
+4. TEmPTaTiON - かねこちはる  ·  1 plays
+5. くうになる (feat. 可不) - MIMI/可不  ·  1 plays
+6. Engineers - melodysheep  ·  1 plays
+7. Visitors - melodysheep  ·  1 plays
+8. Eclipse - melodysheep  ·  1 plays
+9. Aura - melodysheep  ·  1 plays
+10. Becoming Giants - melodysheep  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
