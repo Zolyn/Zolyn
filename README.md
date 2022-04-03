@@ -31,6 +31,7 @@ This is Zorin, an ordinary middle school student.
 ## Chat room
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/zolynsroom/shared_invite/zt-qduxkcjo-luatl0pAMP_HIuamtBO0yg)
 [![Gitter](https://shields.io/badge/Gitter-ed1965?logo=gitter&style=flat-square&logoColor=white)](https://gitter.im/Zolynsroom/community)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/5y4RPhvAKn)
 
 ## Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zorin1477@gmail.com)
