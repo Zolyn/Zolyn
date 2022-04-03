@@ -134,13 +134,13 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 1. Pseudosphere - LBD Records/NOA  ·  1 plays
 2. TEmPTaTiON - かねこちはる  ·  1 plays
 3. くうになる (feat. 可不) - MIMI/可不  ·  1 plays
-4. フォニイ - 可不/ツミキ  ·  1 plays
-5. ひみつのユーフォー - ナユタン星人/可不  ·  1 plays
-6. Compensation - Sennzai/Feryquitous  ·  1 plays
-7. Lure - Sennzai/Laur  ·  1 plays
-8. 可能性の少女 - Sennzai/塚越雄一朗  ·  1 plays
-9. RedemptioN - Sennzai/bermei.inazawa  ·  1 plays
-10. 思想＝夢想 - Sennzai/kidlit  ·  1 plays
+4. Aura - melodysheep  ·  1 plays
+5. Becoming Giants - melodysheep  ·  1 plays
+6. Brotherhood - melodysheep  ·  1 plays
+7. The Game of Life - melodysheep  ·  1 plays
+8. Haven - melodysheep  ·  1 plays
+9. フォニイ - 可不/ツミキ  ·  1 plays
+10. ひみつのユーフォー - ナユタン星人/可不  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
