@@ -146,3 +146,4 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
+**TIP:** The person on the right is [Hoshina Suzu](https://space.bilibili.com/1089059487), one of my favourite Vtubers. :D
