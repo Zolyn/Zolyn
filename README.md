@@ -134,14 +134,14 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```text
 1. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  2 plays
 2. ロキ - 鏡音リン/みきとP  ·  1 plays
-3. アニマルらんど - ななひら  ·  1 plays
-4. 懺悔録 - 黒木渚  ·  1 plays
-5. Xanadu - LBD Records/5LADE  ·  1 plays
-6. Pseudosphere - LBD Records/NOA  ·  1 plays
-7. TEmPTaTiON - かねこちはる  ·  1 plays
-8. くうになる (feat. 可不) - MIMI/可不  ·  1 plays
-9. The Outpost - melodysheep  ·  1 plays
-10. Engineers - melodysheep  ·  1 plays
+3. 夢色パレード  - Yunomi/桃箱/miko  ·  1 plays
+4. ワールズエンド・ダンスホール - wowaka/巡音ルカ/初音ミク  ·  1 plays
+5. 走馬灯ラビリンス - Yunomi/桃箱/miko  ·  1 plays
+6. 回レ！雪月花 - 桃箱  ·  1 plays
+7. すりーぷ! - ななひら  ·  1 plays
+8. アニマルらんど - ななひら  ·  1 plays
+9. 懺悔録 - 黒木渚  ·  1 plays
+10. Fable - Mili  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
