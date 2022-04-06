@@ -122,7 +122,7 @@ Windows                  6 hrs 48 mins       █████████░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/0587f590dfdf6947c604e79af7bd36f6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 157 hrs 23 mins
+🔫 Counter-Strike: Global Offensive 🕘 157 hrs 26 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 143 hrs 12 mins
 💻 Wallpaper Engine                 🕘 33 hrs 47 mins
 🎮 Live2DViewerEX                   🕘 23 hrs 43 mins
