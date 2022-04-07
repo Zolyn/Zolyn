@@ -125,7 +125,7 @@ Linux                    7 hrs 43 mins       █████████░░�
 🔫 Counter-Strike: Global Offensive 🕘 157 hrs 49 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 143 hrs 12 mins
 💻 Wallpaper Engine                 🕘 33 hrs 47 mins
-🎮 Live2DViewerEX                   🕘 23 hrs 43 mins
+🎮 Live2DViewerEX                   🕘 25 hrs 5 mins
 🎮 NEEDY GIRL OVERDOSE              🕘 3 hrs 24 mins
 ```
 Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
