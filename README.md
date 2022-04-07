@@ -135,16 +135,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  2 plays
-2. ロキ - 鏡音リン/みきとP  ·  1 plays
-3. ワールズエンド・ダンスホール - wowaka/巡音ルカ/初音ミク  ·  1 plays
-4. すりーぷ! - ななひら  ·  1 plays
-5. アニマルらんど - ななひら  ·  1 plays
-6. 懺悔録 - 黒木渚  ·  1 plays
-7. Fable - Mili  ·  1 plays
-8. Xanadu - LBD Records/5LADE  ·  1 plays
-9. Pseudosphere - LBD Records/NOA  ·  1 plays
-10. TEmPTaTiON - かねこちはる  ·  1 plays
+1. ロキ - 鏡音リン/みきとP  ·  2 plays
+2. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  2 plays
+3. Time to Pretend - Lazer Boomerang  ·  2 plays
+4. ワールズエンド・ダンスホール - wowaka/巡音ルカ/初音ミク  ·  1 plays
+5. すりーぷ! - ななひら  ·  1 plays
+6. アニマルらんど - ななひら  ·  1 plays
+7. 懺悔録 - 黒木渚  ·  1 plays
+8. Fable - Mili  ·  1 plays
+9. Xanadu - LBD Records/5LADE  ·  1 plays
+10. Pseudosphere - LBD Records/NOA  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
