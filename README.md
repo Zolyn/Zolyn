@@ -135,16 +135,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  3 plays
-2. ロキ - 鏡音リン/みきとP  ·  2 plays
-3. Time to Pretend - Lazer Boomerang  ·  2 plays
-4. 夢色パレード  - Yunomi/桃箱/miko  ·  1 plays
-5. ワールズエンド・ダンスホール - wowaka/巡音ルカ/初音ミク  ·  1 plays
-6. 走馬灯ラビリンス - Yunomi/桃箱/miko  ·  1 plays
-7. 回レ！雪月花 - 桃箱  ·  1 plays
-8. The Emerald Electric - Douglas Holmquist  ·  1 plays
-9. すりーぷ! - ななひら  ·  1 plays
-10. アニマルらんど - ななひら  ·  1 plays
+1. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  4 plays
+2. ロキ - 鏡音リン/みきとP  ·  3 plays
+3. Ready Steady - ギガP/初音ミク/鏡音リン/鏡音レン  ·  2 plays
+4. Time to Pretend - Lazer Boomerang  ·  2 plays
+5. 夢色パレード  - Yunomi/桃箱/miko  ·  1 plays
+6. ワールズエンド・ダンスホール - wowaka/巡音ルカ/初音ミク  ·  1 plays
+7. 走馬灯ラビリンス - Yunomi/桃箱/miko  ·  1 plays
+8. 回レ！雪月花 - 桃箱  ·  1 plays
+9. The Emerald Electric - Douglas Holmquist  ·  1 plays
+10. すりーぷ! - ななひら  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
