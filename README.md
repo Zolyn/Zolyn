@@ -22,8 +22,8 @@ This is Zorin, an ordinary middle school student.
 
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
 
 ## My blog
 [![Arcadia](https://shields.io/badge/Arcadia-377bb5?style=flat-square&logoColor=white)](https://blog.zorin.icu)
@@ -33,13 +33,14 @@ This is Zorin, an ordinary middle school student.
 [![Gitter](https://shields.io/badge/Gitter-ed1965?logo=gitter&style=flat-square&logoColor=white)](https://gitter.im/Zolynsroom/community)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/5y4RPhvAKn)
 
-## Contact me
+## How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zorin1477@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YumeotoZorin)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YumeotoZorin)
 [![BiliBili](https://shields.io/badge/Bilibili-008acc?logo=bilibili&style=flat-square&logoColor=white)](https://space.bilibili.com/163044485)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0066ff.svg?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zolyn7)
-[![NeteaseCloudMusic](https://shields.io/badge/NeteaseCloudMusic-9b0909?style=flat-square&logoColor=white)](https://music.163.com/#/user/home?id=416843684)
+[![Juejin](https://img.shields.io/badge/Juejin-1e80ff.svg?style=flat-square)](https://juejin.cn/user/1011993594304493)
+[![NeteaseCloudMusic](https://shields.io/badge/NeteaseCloudMusic-9b0909?style=flat-square)](https://music.163.com/#/user/home?id=416843684)
 
 ## Donation
 [Buy me a cup of milk tea](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
