@@ -128,6 +128,7 @@ Linux                    3 hrs 49 mins       ████░░░░░░░�
 💻 Wallpaper Engine                 🕘 33 hrs 47 mins
 🎮 Live2DViewerEX                   🕘 25 hrs 5 mins
 🎮 NEEDY GIRL OVERDOSE              🕘 3 hrs 24 mins
+🎮 Apex Legends                     🕘 1 hrs 38 mins
 ```
 Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- steam-box end -->
