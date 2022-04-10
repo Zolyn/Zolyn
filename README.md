@@ -144,8 +144,8 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 6. Time to Pretend - Lazer Boomerang  ·  2 plays
 7. Universum - Laur  ·  1 plays
 8. Experiment - Laur  ·  1 plays
-9. 夢色パレード  - Yunomi/桃箱/miko  ·  1 plays
-10. Don't Care - Sullivan King  ·  1 plays
+9. テアトル・エンドロール - 藍月なくる  ·  1 plays
+10. ガラスアゲハ - 藍月なくる  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
