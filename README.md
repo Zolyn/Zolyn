@@ -135,16 +135,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  4 plays
-2. ロキ - 鏡音リン/みきとP  ·  3 plays
-3. Xanadu - LBD Records/5LADE  ·  2 plays
-4. Eufolie - 棗いつき/藍月なくる  ·  2 plays
-5. Ready Steady - ギガP/初音ミク/鏡音リン/鏡音レン  ·  2 plays
-6. Time to Pretend - Lazer Boomerang  ·  2 plays
-7. Universum - Laur  ·  1 plays
-8. Experiment - Laur  ·  1 plays
-9. テアトル・エンドロール - 藍月なくる  ·  1 plays
-10. ガラスアゲハ - 藍月なくる  ·  1 plays
+1. ロキ - 鏡音リン/みきとP  ·  3 plays
+2. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  3 plays
+3. Eufolie - 棗いつき/藍月なくる  ·  2 plays
+4. Ready Steady - ギガP/初音ミク/鏡音リン/鏡音レン  ·  2 plays
+5. Time to Pretend - Lazer Boomerang  ·  2 plays
+6. Universum - Laur  ·  1 plays
+7. Experiment - Laur  ·  1 plays
+8. 夢色パレード  - Yunomi/桃箱/miko  ·  1 plays
+9. Don't Care - Sullivan King  ·  1 plays
+10. ワールズエンド・ダンスホール - wowaka/巡音ルカ/初音ミク  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
