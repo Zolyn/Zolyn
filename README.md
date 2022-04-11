@@ -135,14 +135,14 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```text
 1. ロキ - 鏡音リン/みきとP  ·  3 plays
 2. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  3 plays
-3. Demo - LBD Records/8bite  ·  2 plays
-4. Pseudosphere - LBD Records/NOA  ·  2 plays
-5. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
-6. Powder Wonder - LBD Records/Miokio米欧  ·  2 plays
-7. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  2 plays
-8. Eufolie - 棗いつき/藍月なくる  ·  2 plays
-9. N E O N L A M P - CHYUCE/2088Official  ·  2 plays
-10. Ready Steady - ギガP/初音ミク/鏡音リン/鏡音レン  ·  2 plays
+3. N E O N L A M P - CHYUCE/2088Official  ·  3 plays
+4. Demo - LBD Records/8bite  ·  2 plays
+5. Pseudosphere - LBD Records/NOA  ·  2 plays
+6. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
+7. Powder Wonder - LBD Records/Miokio米欧  ·  2 plays
+8. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  2 plays
+9. MILLENNIAL CRUSH - Salty Salt/笠筱/Cytherea/The_Wooden/啡茶Lftee/Chloe库洛伊/Org3/UIL/Mestie  ·  2 plays
+10. Eufolie - 棗いつき/藍月なくる  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
