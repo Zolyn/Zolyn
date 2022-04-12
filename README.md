@@ -117,9 +117,9 @@ Windows                  41 hrs 38 mins      ███████████�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 157 hrs 49 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 143 hrs 12 mins
-💻 Wallpaper Engine                 🕘 33 hrs 47 mins
+💻 Wallpaper Engine                 🕘 33 hrs 54 mins
 🎮 Live2DViewerEX                   🕘 25 hrs 5 mins
-🎮 Apex Legends                     🕘 3 hrs 40 mins
+🎮 Apex Legends                     🕘 4 hrs 23 mins
 🎮 NEEDY GIRL OVERDOSE              🕘 3 hrs 24 mins
 🎮 Aim Lab                          🕘 0 hrs 5 mins
 ```
