@@ -141,7 +141,7 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 7. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
 8. Powder Wonder - LBD Records/Miokio米欧  ·  2 plays
 9. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  2 plays
-10. MILLENNIAL CRUSH - Salty Salt/笠筱/Cytherea/The_Wooden/啡茶Lftee/Chloe库洛伊/Org3/UIL/Mestie  ·  2 plays
+10. Angel computer (feat. Aiobahn) - NEEDY GIRL OVERDOSE/Aiobahn  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
