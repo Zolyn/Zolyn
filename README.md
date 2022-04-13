@@ -133,15 +133,15 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. ロキ - 鏡音リン/みきとP  ·  3 plays
-2. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  3 plays
-3. N E O N L A M P - CHYUCE/2088Official  ·  3 plays
-4. Protostar - 藍月なくる  ·  2 plays
-5. Demo - LBD Records/8bite  ·  2 plays
-6. Pseudosphere - LBD Records/NOA  ·  2 plays
-7. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
-8. Powder Wonder - LBD Records/Miokio米欧  ·  2 plays
-9. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  2 plays
-10. ポジティブ☆ダンスタイム (feat. 鳳えむ&草薙寧々&鏡音リン) - キノシタ/ワンダーランズ×ショウタイム/鏡音リン  ·  2 plays
+2. Apollo - sasakure.UK  ·  3 plays
+3. Ready Steady (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク) - ギガP/Vivid BAD SQUAD/初音ミク  ·  3 plays
+4. N E O N L A M P - CHYUCE/2088Official  ·  3 plays
+5. Protostar - 藍月なくる  ·  2 plays
+6. Demo - LBD Records/8bite  ·  2 plays
+7. Pseudosphere - LBD Records/NOA  ·  2 plays
+8. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
+9. Powder Wonder - LBD Records/Miokio米欧  ·  2 plays
+10. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
