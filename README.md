@@ -135,12 +135,12 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 2. N E O N L A M P - CHYUCE/2088Official  ·  3 plays
 3. Protostar - 藍月なくる  ·  2 plays
 4. ロキ - 鏡音リン/みきとP  ·  2 plays
-5. Demo - LBD Records/8bite  ·  2 plays
-6. Pseudosphere - LBD Records/NOA  ·  2 plays
-7. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
-8. Powder Wonder - LBD Records/Miokio米欧  ·  2 plays
-9. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  2 plays
-10. ポジティブ☆ダンスタイム (feat. 鳳えむ&草薙寧々&鏡音リン) - キノシタ/ワンダーランズ×ショウタイム/鏡音リン  ·  2 plays
+5. 自傷無色 - ねこぼーろ/初音ミク  ·  2 plays
+6. 自傷無色 (feat. 宵崎奏, 朝比奈まふゆ & 初音ミク) - 25時、ナイトコードで。  ·  2 plays
+7. Demo - LBD Records/8bite  ·  2 plays
+8. Pseudosphere - LBD Records/NOA  ·  2 plays
+9. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
+10. Powder Wonder - LBD Records/Miokio米欧  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
