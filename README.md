@@ -131,14 +131,14 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```text
 1. Apollo - sasakure.UK  ·  3 plays
 2. N E O N L A M P - CHYUCE/2088Official  ·  3 plays
-3. IdenTism (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
-4. レインライン (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
-5. レインライン - Feryquitous/藍月なくる  ·  2 plays
-6. Lost Per Minutes - Feryquitous/藍月なくる  ·  2 plays
-7. Protostar - 藍月なくる  ·  2 plays
-8. 自傷無色 - ねこぼーろ/初音ミク  ·  2 plays
-9. 自傷無色 (feat. 宵崎奏, 朝比奈まふゆ & 初音ミク) - 25時、ナイトコードで。  ·  2 plays
-10. Demo - LBD Records/8bite  ·  2 plays
+3. Protostar - 藍月なくる  ·  2 plays
+4. 自傷無色 - ねこぼーろ/初音ミク  ·  2 plays
+5. 自傷無色 (feat. 宵崎奏, 朝比奈まふゆ & 初音ミク) - 25時、ナイトコードで。  ·  2 plays
+6. Demo - LBD Records/8bite  ·  2 plays
+7. Pseudosphere - LBD Records/NOA  ·  2 plays
+8. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
+9. Powder Wonder - LBD Records/Miokio米欧  ·  2 plays
+10. Down On Me - LBD Records/Mestie/9bit/J.A.C.E  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
