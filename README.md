@@ -132,16 +132,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Apollo - sasakure.UK  ·  3 plays
-2. N E O N L A M P - CHYUCE/2088Official  ·  3 plays
-3. Protostar - 藍月なくる  ·  2 plays
-4. 自傷無色 - ねこぼーろ/初音ミク  ·  2 plays
-5. Ascension to Heaven - xi  ·  2 plays
-6. ベノム (feat. 東雲絵名 & 暁山瑞希) - 25時、ナイトコードで。  ·  2 plays
-7. 自傷無色 (feat. 宵崎奏, 朝比奈まふゆ & 初音ミク) - 25時、ナイトコードで。  ·  2 plays
-8. Demo - LBD Records/8bite  ·  2 plays
-9. Pseudosphere - LBD Records/NOA  ·  2 plays
-10. Nuclear Crystal - LBD Records/笠筱/CRAZYPIG  ·  2 plays
+1. レインライン (Instrumental) - Feryquitous/藍月なくる  ·  3 plays
+2. Trip Call - Feryquitous/藍月なくる  ·  3 plays
+3. Lost Per Minutes - Feryquitous/藍月なくる  ·  3 plays
+4. Apollo - sasakure.UK  ·  3 plays
+5. LHAHEIN (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
+6. IdenTism (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
+7. Lost Per Minutes (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
+8. LHAHEIN - Feryquitous/藍月なくる  ·  2 plays
+9. IdenTism - Feryquitous/藍月なくる  ·  2 plays
+10. レインライン - Feryquitous/藍月なくる  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
