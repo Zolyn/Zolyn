@@ -141,7 +141,7 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 7. swallow SMOKE - Frums  ·  3 plays
 8. Flashbacklog - Frums  ·  3 plays
 9. 24eeev0-$ - Frums  ·  3 plays
-10. LHAHEIN (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
+10. My Capacitance - Frums  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
