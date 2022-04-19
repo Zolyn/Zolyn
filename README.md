@@ -133,13 +133,13 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 1. レインライン (Instrumental) - Feryquitous/藍月なくる  ·  3 plays
 2. Trip Call - Feryquitous/藍月なくる  ·  3 plays
 3. Lost Per Minutes - Feryquitous/藍月なくる  ·  3 plays
-4. Apollo - sasakure.UK  ·  3 plays
-5. Mdrqnxtagon - Frums  ·  3 plays
-6. Great Fury of Heaven - Frums  ·  3 plays
-7. swallow SMOKE - Frums  ·  3 plays
-8. Flashbacklog - Frums  ·  3 plays
-9. 24eeev0-$ - Frums  ·  3 plays
-10. My Capacitance - Frums  ·  3 plays
+4. Mdrqnxtagon - Frums  ·  3 plays
+5. Great Fury of Heaven - Frums  ·  3 plays
+6. swallow SMOKE - Frums  ·  3 plays
+7. Flashbacklog - Frums  ·  3 plays
+8. 24eeev0-$ - Frums  ·  3 plays
+9. My Capacitance - Frums  ·  3 plays
+10. LHAHEIN (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
