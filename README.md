@@ -132,16 +132,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. レインライン (Instrumental) - Feryquitous/藍月なくる  ·  3 plays
-2. Trip Call - Feryquitous/藍月なくる  ·  3 plays
-3. Mdrqnxtagon - Frums  ·  3 plays
-4. Great Fury of Heaven - Frums  ·  3 plays
-5. swallow SMOKE - Frums  ·  3 plays
-6. Flashbacklog - Frums  ·  3 plays
-7. 24eeev0-$ - Frums  ·  3 plays
-8. My Capacitance - Frums  ·  3 plays
-9. LHAHEIN (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
-10. IdenTism (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
+1. Mdrqnxtagon - Frums  ·  3 plays
+2. Great Fury of Heaven - Frums  ·  3 plays
+3. swallow SMOKE - Frums  ·  3 plays
+4. Flashbacklog - Frums  ·  3 plays
+5. 24eeev0-$ - Frums  ·  3 plays
+6. My Capacitance - Frums  ·  3 plays
+7. レインライン (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
+8. Trip Call - Feryquitous/藍月なくる  ·  2 plays
+9. Lost Per Minutes - Feryquitous/藍月なくる  ·  2 plays
+10. Salmiakki - Frums  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
