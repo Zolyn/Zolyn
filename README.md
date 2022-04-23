@@ -134,11 +134,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 3. swallow SMOKE - Frums  ·  3 plays
 4. Flashbacklog - Frums  ·  3 plays
 5. 24eeev0-$ - Frums  ·  3 plays
-6. My Capacitance - Frums  ·  3 plays
-7. レインライン (Instrumental) - Feryquitous/藍月なくる  ·  2 plays
-8. Trip Call - Feryquitous/藍月なくる  ·  2 plays
-9. Lost Per Minutes - Feryquitous/藍月なくる  ·  2 plays
-10. Salmiakki - Frums  ·  2 plays
+6. END OF SYSTEM - Frums  ·  2 plays
+7. Salmiakki - Frums  ·  2 plays
+8. from the haze of our ragged hypoxias - Frums  ·  2 plays
+9. My Capacitance - Frums  ·  2 plays
+10. LHAHEIN (Instrumental) - Feryquitous/藍月なくる  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
