@@ -129,15 +129,15 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Mdrqnxtagon - Frums  ·  3 plays
-2. Great Fury of Heaven - Frums  ·  3 plays
-3. swallow SMOKE - Frums  ·  3 plays
-4. Flashbacklog - Frums  ·  3 plays
-5. 24eeev0-$ - Frums  ·  3 plays
-6. Cry - TEARS!  ·  2 plays
-7. END OF SYSTEM - Frums  ·  2 plays
-8. Salmiakki - Frums  ·  2 plays
-9. from the haze of our ragged hypoxias - Frums  ·  2 plays
+1. Mdrqnxtagon - Frums  ·  4 plays
+2. Great Fury of Heaven - Frums  ·  4 plays
+3. swallow SMOKE - Frums  ·  4 plays
+4. 24eeev0-$ - Frums  ·  4 plays
+5. END OF SYSTEM - Frums  ·  3 plays
+6. from the haze of our ragged hypoxias - Frums  ·  3 plays
+7. Flashbacklog - Frums  ·  3 plays
+8. Cry - TEARS!  ·  2 plays
+9. Salmiakki - Frums  ·  2 plays
 10. My Capacitance - Frums  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
