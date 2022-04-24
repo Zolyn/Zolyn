@@ -134,11 +134,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 3. swallow SMOKE - Frums  ·  4 plays
 4. 24eeev0-$ - Frums  ·  4 plays
 5. END OF SYSTEM - Frums  ·  3 plays
-6. from the haze of our ragged hypoxias - Frums  ·  3 plays
-7. Flashbacklog - Frums  ·  3 plays
-8. Cry - TEARS!  ·  2 plays
-9. Salmiakki - Frums  ·  2 plays
-10. My Capacitance - Frums  ·  2 plays
+6. Salmiakki - Frums  ·  3 plays
+7. from the haze of our ragged hypoxias - Frums  ·  3 plays
+8. Flashbacklog - Frums  ·  3 plays
+9. My Capacitance - Frums  ·  3 plays
+10. Cry - TEARS!  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
