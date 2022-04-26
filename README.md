@@ -134,16 +134,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Cry - TEARS!  ·  2 plays
-2. Iridescent - ZEOL  ·  2 plays
-3. Soda World - Chime  ·  2 plays
-4. END OF SYSTEM - Frums  ·  2 plays
-5. Mdrqnxtagon - Frums  ·  2 plays
-6. Great Fury of Heaven - Frums  ·  2 plays
-7. Nichto - Frums  ·  2 plays
-8. swallow SMOKE - Frums  ·  2 plays
-9. Flashbacklog - Frums  ·  2 plays
-10. 24eeev0-$ - Frums  ·  2 plays
+1. Cry - TEARS!  ·  3 plays
+2. END OF SYSTEM - Frums  ·  3 plays
+3. Blur - Machiko  ·  2 plays
+4. After Rain - Viuk  ·  2 plays
+5. Calamity - TEARS!  ·  2 plays
+6. Gøne - Kolture/DVRLENE  ·  2 plays
+7. Final Step! - Kankitsu  ·  2 plays
+8. Iridescent - ZEOL  ·  2 plays
+9. Soda World - Chime  ·  2 plays
+10. from the haze of our ragged hypoxias - Frums  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
