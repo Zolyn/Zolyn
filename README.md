@@ -141,9 +141,9 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 5. Calamity - TEARS!  ·  2 plays
 6. Gøne - Kolture/DVRLENE  ·  2 plays
 7. Final Step! - Kankitsu  ·  2 plays
-8. Iridescent - ZEOL  ·  2 plays
-9. Soda World - Chime  ·  2 plays
-10. from the haze of our ragged hypoxias - Frums  ·  2 plays
+8. Snow - Blosso  ·  2 plays
+9. Iridescent - ZEOL  ·  2 plays
+10. Soda World - Chime  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
