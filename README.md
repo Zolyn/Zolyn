@@ -137,12 +137,12 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Cry - TEARS!  ·  5 plays
-2. END OF SYSTEM - Frums  ·  5 plays
-3. After Rain - Viuk  ·  4 plays
-4. Calamity - TEARS!  ·  4 plays
-5. Gøne - Kolture/DVRLENE  ·  4 plays
-6. Final Step! - Kankitsu  ·  4 plays
+1. END OF SYSTEM - Frums  ·  5 plays
+2. After Rain - Viuk  ·  4 plays
+3. Calamity - TEARS!  ·  4 plays
+4. Gøne - Kolture/DVRLENE  ·  4 plays
+5. Final Step! - Kankitsu  ·  4 plays
+6. Cry - TEARS!  ·  4 plays
 7. from the haze of our ragged hypoxias - Frums  ·  4 plays
 8. Blur - Machiko  ·  3 plays
 9. Time Traveller - Quartzone  ·  3 plays
