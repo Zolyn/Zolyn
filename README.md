@@ -144,10 +144,10 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 4. Gøne - Kolture/DVRLENE  ·  3 plays
 5. Final Step! - Kankitsu  ·  3 plays
 6. Cry - TEARS!  ·  3 plays
-7. END OF SYSTEM - Frums  ·  3 plays
-8. from the haze of our ragged hypoxias - Frums  ·  3 plays
-9. Blur - Machiko  ·  2 plays
-10. [USAO誕生日]Night Kider - Daily天利  ·  2 plays
+7. [USAO誕生日]Night Kider - Daily天利  ·  3 plays
+8. END OF SYSTEM - Frums  ·  3 plays
+9. from the haze of our ragged hypoxias - Frums  ·  3 plays
+10. Sense - BilliumMoto/Silentroom  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
