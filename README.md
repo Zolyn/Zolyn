@@ -138,16 +138,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. After Rain - Viuk  ·  3 plays
-2. Calamity - TEARS!  ·  3 plays
-3. Time Traveller - Quartzone  ·  3 plays
-4. Gøne - Kolture/DVRLENE  ·  3 plays
-5. Final Step! - Kankitsu  ·  3 plays
-6. Cry - TEARS!  ·  3 plays
-7. [USAO誕生日]Night Kider - Daily天利  ·  3 plays
-8. END OF SYSTEM - Frums  ·  3 plays
-9. from the haze of our ragged hypoxias - Frums  ·  3 plays
-10. Sense - BilliumMoto/Silentroom  ·  2 plays
+1. After Rain - Viuk  ·  4 plays
+2. Time Traveller - Quartzone  ·  4 plays
+3. Blur - Machiko  ·  3 plays
+4. Calamity - TEARS!  ·  3 plays
+5. Gøne - Kolture/DVRLENE  ·  3 plays
+6. Final Step! - Kankitsu  ·  3 plays
+7. Cry - TEARS!  ·  3 plays
+8. [USAO誕生日]Night Kider - Daily天利  ·  3 plays
+9. Iridescent - ZEOL  ·  3 plays
+10. END OF SYSTEM - Frums  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
