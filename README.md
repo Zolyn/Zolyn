@@ -20,11 +20,23 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 ## My work environment
 <img align="right" width="240px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
 
+### Softwares
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Windows11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white)
+![MIUI Phone](https://img.shields.io/badge/MIUI_12.5-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![MIUI Pad](https://img.shields.io/badge/MIUI_13-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
+
+### Hardwares, Devices
+![Ryzen 5 5600X](https://img.shields.io/badge/AMD%20Ryzen_5_5600X-ED1C24?style=flat-square&logo=amd&logoColor=white)
+![Radeon RX6600](https://img.shields.io/badge/AMD%20Radeon_RX_6600-ED1C24?style=flat-square&logo=amd&logoColor=white)
+
+![Redmi Router](https://img.shields.io/badge/Redmi_Router_AX6S-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![Redmi K30 Ultra](https://img.shields.io/badge/Redmi_K30_Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi_Pad_5-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 
 ## My blog
 [![Arcadia](https://shields.io/badge/Arcadia-377bb5?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.zorin.icu)
