@@ -1,5 +1,5 @@
 # Hi ✨
-This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and  middle school student.
+This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle school student.
 
 ## I am learning ...
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
