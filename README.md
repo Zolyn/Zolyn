@@ -1,5 +1,5 @@
 # Hi ✨
-This is Zorin, an ordinary middle school student.
+This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary middle school student.
 
 ## I am learning ...
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -21,12 +21,13 @@ This is Zorin, an ordinary middle school student.
 <img align="right" width="240px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
 
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Windows11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
 
 ## My blog
-[![Arcadia](https://shields.io/badge/Arcadia-377bb5?style=flat-square&logoColor=white)](https://blog.zorin.icu)
+[![Arcadia](https://shields.io/badge/Arcadia-377bb5?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.zorin.icu)
 
 ## Chat room
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/zolynsroom/shared_invite/zt-qduxkcjo-luatl0pAMP_HIuamtBO0yg)
@@ -43,8 +44,7 @@ This is Zorin, an ordinary middle school student.
 [![NeteaseCloudMusic](https://shields.io/badge/NeteaseCloudMusic-9b0909?style=flat-square)](https://music.163.com/#/user/home?id=416843684)
 
 ## Donation
-[Buy me a cup of milk tea](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
-
+[![Buy me a cup of coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
 ## Analytics
 ### Contribution Graph
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Zolyn&theme=react-dark&hide_border=true)
@@ -151,4 +151,7 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
-**TIP:** The person on the [right](https://github.com/Zolyn#my-work-environment) is [Hoshina Suzu](https://space.bilibili.com/1089059487), one of my favourite Vtubers. :D
+## TIPS:
+
+- The person on the [right](https://github.com/Zolyn#my-work-environment) is [Hoshina Suzu](https://space.bilibili.com/1089059487), one of my favourite Vtubers. :D
+- The donation only supports Alipay, Wechat Pay and Tenpay payment since I am still a minor. :P
