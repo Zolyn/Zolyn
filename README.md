@@ -1,5 +1,5 @@
 # Hi ✨
-This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary middle school student.
+This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and  middle school student.
 
 ## I am learning ...
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -153,5 +153,6 @@ Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box)
 <!-- netease-music-box end -->
 ## TIPS:
 
+- The surname "Yumeoto" comes from a Vtuber called [Yumeoto Chano](https://space.bilibili.com/140378). And the name "Zorin" comes from [Zorin OS](https://zorin.com/os).
 - The person on the [right](https://github.com/Zolyn#my-work-environment) is [Hoshina Suzu](https://space.bilibili.com/1089059487), one of my favourite Vtubers. :D
 - The donation only supports Alipay, Wechat Pay and Tenpay payment since I am still a minor. :P
