@@ -153,11 +153,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```text
 1. Sense - BilliumMoto/Silentroom  ·  5 plays
 2. Blur - Machiko  ·  4 plays
-3. After Rain - Viuk  ·  4 plays
-4. Time Traveller - Quartzone  ·  4 plays
-5. Iridescent - ZEOL  ·  4 plays
-6. The Deliverer - Silentroom  ·  4 plays
-7. Were-In' - MrKoolTrix  ·  3 plays
+3. Were-In' - MrKoolTrix  ·  4 plays
+4. After Rain - Viuk  ·  4 plays
+5. Time Traveller - Quartzone  ·  4 plays
+6. Iridescent - ZEOL  ·  4 plays
+7. The Deliverer - Silentroom  ·  4 plays
 8. Calamity - TEARS!  ·  3 plays
 9. Coming Down - NeoKrono  ·  3 plays
 10. Play - B'Andre  ·  3 plays
