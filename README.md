@@ -72,7 +72,7 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64%20Thousand%20lines%20of%20code-blue)
 
@@ -90,11 +90,11 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 ```text
 Monday       196 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 Tuesday      152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Wednesday    123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+Wednesday    125 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.83% 
 Thursday     72 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.24% 
 Friday       134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
 Saturday     229 commits    █████░░░░░░░░░░░░░░░░░░░░   19.84% 
-Sunday       248 commits    █████░░░░░░░░░░░░░░░░░░░░   21.49%
+Sunday       246 commits    █████░░░░░░░░░░░░░░░░░░░░   21.32%
 
 ```
 
@@ -129,7 +129,7 @@ Linux                    4 hrs 40 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 04/05/2022 12:56:06 UTC
+ Last Updated on 04/05/2022 15:31:22 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
