@@ -152,15 +152,15 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. Sense - BilliumMoto/Silentroom  ·  5 plays
-2. Blur - Machiko  ·  3 plays
-3. Were-In' - MrKoolTrix  ·  3 plays
-4. [USAO誕生日]Night Kider - Daily天利  ·  3 plays
-5. Iridescent - ZEOL  ·  3 plays
-6. The Deliverer - Silentroom  ·  3 plays
-7. Galaxy Friends - Kobaryo  ·  2 plays
-8. After Rain - Viuk  ·  2 plays
-9. Coming Down - NeoKrono  ·  2 plays
-10. Play - B'Andre  ·  2 plays
+2. Galaxy Friends - Kobaryo  ·  3 plays
+3. Blur - Machiko  ·  3 plays
+4. Were-In' - MrKoolTrix  ·  3 plays
+5. [USAO誕生日]Night Kider - Daily天利  ·  3 plays
+6. Endless Adventure (USAO Remix) - USAO  ·  3 plays
+7. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
+8. Invisible Frenzy -Genuine Version- - Kobaryo  ·  3 plays
+9. Crunchy Crown Coaster - Kobaryo  ·  3 plays
+10. SUPER MEMORIES X  - Kobaryo/HiTNEX-X  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
