@@ -72,7 +72,7 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65%20Thousand%20lines%20of%20code-blue)
 
@@ -91,10 +91,10 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 Monday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
 Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
 Wednesday    117 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
-Thursday     74 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.37% 
+Thursday     73 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
 Friday       145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
 Saturday     244 commits    █████░░░░░░░░░░░░░░░░░░░░   21.02% 
-Sunday       253 commits    █████░░░░░░░░░░░░░░░░░░░░   21.79%
+Sunday       254 commits    █████░░░░░░░░░░░░░░░░░░░░   21.88%
 
 ```
 
@@ -128,7 +128,7 @@ Windows                  9 hrs 34 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 08/05/2022 12:46:04 UTC
+ Last Updated on 08/05/2022 15:28:01 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
