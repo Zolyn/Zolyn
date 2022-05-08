@@ -156,11 +156,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 3. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  3 plays
 4. Blur - Machiko  ·  3 plays
 5. Were-In' - MrKoolTrix  ·  3 plays
-6. [USAO誕生日]Night Kider - Daily天利  ·  3 plays
-7. Endless Adventure (USAO Remix) - USAO  ·  3 plays
-8. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
-9. Invisible Frenzy -Genuine Version- - Kobaryo  ·  3 plays
-10. Crunchy Crown Coaster - Kobaryo  ·  3 plays
+6. Iridescent - ZEOL  ·  3 plays
+7. The Deliverer - Silentroom  ·  3 plays
+8. GLITCH SWITCH - Silentroom  ·  3 plays
+9. Angel Echo - Silentroom  ·  3 plays
+10. Wondertainer - Silentroom  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
