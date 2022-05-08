@@ -152,14 +152,14 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```text
 1. Galaxy Friends - Kobaryo  ·  4 plays
 2. Sense - BilliumMoto/Silentroom  ·  4 plays
-3. Blur - Machiko  ·  3 plays
-4. Were-In' - MrKoolTrix  ·  3 plays
-5. [USAO誕生日]Night Kider - Daily天利  ·  3 plays
-6. Endless Adventure (USAO Remix) - USAO  ·  3 plays
-7. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
-8. Invisible Frenzy -Genuine Version- - Kobaryo  ·  3 plays
-9. Crunchy Crown Coaster - Kobaryo  ·  3 plays
-10. Fire in the Milk   - Kobaryo/DJ NECOJITA  ·  3 plays
+3. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  3 plays
+4. Blur - Machiko  ·  3 plays
+5. Were-In' - MrKoolTrix  ·  3 plays
+6. [USAO誕生日]Night Kider - Daily天利  ·  3 plays
+7. Endless Adventure (USAO Remix) - USAO  ·  3 plays
+8. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
+9. Invisible Frenzy -Genuine Version- - Kobaryo  ·  3 plays
+10. Crunchy Crown Coaster - Kobaryo  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
