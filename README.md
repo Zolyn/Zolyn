@@ -155,16 +155,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Galaxy Friends - Kobaryo  ·  4 plays
-2. Sense - BilliumMoto/Silentroom  ·  4 plays
-3. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  3 plays
-4. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  3 plays
-5. Blur - Machiko  ·  3 plays
-6. Were-In' - MrKoolTrix  ·  3 plays
-7. Iridescent - ZEOL  ·  3 plays
-8. The Deliverer - Silentroom  ·  3 plays
-9. GLITCH SWITCH - Silentroom  ·  3 plays
-10. Angel Echo - Silentroom  ·  3 plays
+1. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
+2. Galaxy Friends - Kobaryo  ·  3 plays
+3. B-9 syndrome - Silentroom  ·  3 plays
+4. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
+5. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
+6. Eternal Ending - Kobaryo  ·  2 plays
+7. Chocolate Lily - Kobaryo  ·  2 plays
+8. Delete The World - Kobaryo  ·  2 plays
+9. X7124 ("The Blue" Full Version) - Silentroom  ·  2 plays
+10. Untrodden Morn ("Uncharted" Full Version) - Silentroom  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
