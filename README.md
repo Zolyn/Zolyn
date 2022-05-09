@@ -41,11 +41,6 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 ## My blog
 [![Arcadia](https://shields.io/badge/Arcadia-377bb5?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.zorin.icu)
 
-## Chat room
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/zolynsroom/shared_invite/zt-qduxkcjo-luatl0pAMP_HIuamtBO0yg)
-[![Gitter](https://shields.io/badge/Gitter-ed1965?logo=gitter&style=flat-square&logoColor=white)](https://gitter.im/Zolynsroom/community)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/5y4RPhvAKn)
-
 ## How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zorin1477@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YumeotoZorin)
@@ -55,12 +50,21 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 [![Juejin](https://img.shields.io/badge/Juejin-1e80ff.svg?style=flat-square)](https://juejin.cn/user/1011993594304493)
 [![NeteaseCloudMusic](https://shields.io/badge/NeteaseCloudMusic-9b0909?style=flat-square)](https://music.163.com/#/user/home?id=416843684)
 
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/zolynsroom/shared_invite/zt-qduxkcjo-luatl0pAMP_HIuamtBO0yg)
+[![Gitter](https://shields.io/badge/Gitter-ed1965?logo=gitter&style=flat-square&logoColor=white)](https://gitter.im/Zolynsroom/community)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/5y4RPhvAKn)
+
 ## Donation
 [![Buy me a cup of coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.7.29-release.0/Arcadia/images/donate.png)
-## Analytics
+
+## Other things
+
+<details>
+<summary>Analytics</summary>
+
 ### Contribution Graph
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Zolyn&theme=react-dark&hide_border=true)
-
+   
 ### Github Readme Stats
 <div class="readme-stats">
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Zolyn&show_icons=true&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=0d1117" alt="Github Stats" />
@@ -164,8 +168,12 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
-## TIPS:
+</details>
 
-- The surname "Yumeoto" comes from a Vtuber called [Yumeoto Chano](https://space.bilibili.com/140378). And the name "Zorin" comes from [Zorin OS](https://zorin.com/os).
+<details>
+<summary> NOTES: </summary>
+
+   - The surname "Yumeoto" comes from a Vtuber called [Yumeoto Chano](https://space.bilibili.com/140378). And the name "Zorin" comes from [Zorin OS](https://zorin.com/os).
 - The person on the [right](https://github.com/Zolyn#my-work-environment) is [Hoshina Suzu](https://space.bilibili.com/1089059487), one of my favourite Vtubers. :D
 - The donation only supports Alipay, Wechat Pay and Tenpay payment since I am still a minor. :P
+</details>
