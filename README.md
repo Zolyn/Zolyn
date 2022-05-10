@@ -157,14 +157,14 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```text
 1. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
 2. Galaxy Friends - Kobaryo  ·  3 plays
-3. B-9 syndrome - Silentroom  ·  3 plays
-4. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
-5. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
-6. Eternal Ending - Kobaryo  ·  2 plays
-7. Chocolate Lily - Kobaryo  ·  2 plays
-8. Delete The World - Kobaryo  ·  2 plays
-9. X7124 ("The Blue" Full Version) - Silentroom  ·  2 plays
-10. Untrodden Morn ("Uncharted" Full Version) - Silentroom  ·  2 plays
+3. Opal - Sharks  ·  3 plays
+4. B-9 syndrome - Silentroom  ·  3 plays
+5. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
+6. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
+7. Eternal Ending - Kobaryo  ·  2 plays
+8. Chocolate Lily - Kobaryo  ·  2 plays
+9. Delete The World - Kobaryo  ·  2 plays
+10. X7124 ("The Blue" Full Version) - Silentroom  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
