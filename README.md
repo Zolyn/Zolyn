@@ -17,6 +17,9 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 ![Electron.js](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 
+## I am currenly working on ...
+- [vite-plugin-vue-type-imports](https://github.com/Zolyn/vite-plugin-vue-type-imports) : Import types in Vue SFC for defineProps
+
 ## My work environment
 <img align="right" width="240px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
 
