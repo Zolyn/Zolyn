@@ -157,16 +157,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  8 plays
+1. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  10 plays
 2. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
-3. Galaxy Friends - Kobaryo  ·  3 plays
-4. X7124 ("The Blue" Full Version) - Silentroom  ·  3 plays
-5. Opal - Sharks  ·  3 plays
-6. B-9 syndrome - Silentroom  ·  3 plays
-7. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
-8. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
-9. Eternal Ending - Kobaryo  ·  2 plays
-10. Chocolate Lily - Kobaryo  ·  2 plays
+3. B-9 syndrome - Silentroom  ·  3 plays
+4. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
+5. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
+6. Eternal Ending - Kobaryo  ·  2 plays
+7. Chocolate Lily - Kobaryo  ·  2 plays
+8. Galaxy Friends - Kobaryo  ·  2 plays
+9. Delete The World - Kobaryo  ·  2 plays
+10. In My Heart (Reprise) - Silentroom  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
