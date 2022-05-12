@@ -158,10 +158,10 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  13 plays
-2. X7124 ("The Blue" Full Version) - Silentroom  ·  4 plays
-3. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
-4. In My Heart (Reprise) - Silentroom  ·  3 plays
-5. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  3 plays
+2. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
+3. X7124 ("The Blue" Full Version) - Silentroom  ·  4 plays
+4. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
+5. In My Heart (Reprise) - Silentroom  ·  3 plays
 6. B-9 syndrome - Silentroom  ·  3 plays
 7. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
 8. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
