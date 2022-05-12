@@ -157,7 +157,7 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  12 plays
+1. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  13 plays
 2. X7124 ("The Blue" Full Version) - Silentroom  ·  4 plays
 3. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
 4. In My Heart (Reprise) - Silentroom  ·  3 plays
