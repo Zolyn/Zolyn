@@ -157,16 +157,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  15 plays
-2. X7124 ("The Blue" Full Version) - Silentroom  ·  5 plays
-3. In My Heart (Reprise) - Silentroom  ·  4 plays
-4. A Fairy with You - Endorfin.  ·  4 plays
-5. Fallensquare ("Arcade" Full Version) - Silentroom  ·  4 plays
-6. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
-7. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  3 plays
-8. Eternal Ending - Kobaryo  ·  3 plays
-9. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
-10. In My Heart -discovered- - Silentroom/ゆうゆ  ·  3 plays
+1. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  16 plays
+2. X7124 ("The Blue" Full Version) - Silentroom  ·  6 plays
+3. In My Heart (Reprise) - Silentroom  ·  5 plays
+4. Fallensquare ("Arcade" Full Version) - Silentroom  ·  5 plays
+5. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  5 plays
+6. 虹が降る街 - Silentroom/やどりぎ  ·  4 plays
+7. In My Heart -discovered- - Silentroom/ゆうゆ  ·  4 plays
+8. Variations on Silent Rhapsody - Silentroom/Sobrem  ·  4 plays
+9. A Fairy with You - Endorfin.  ·  4 plays
+10. B-9 syndrome - Silentroom  ·  4 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
