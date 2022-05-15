@@ -148,7 +148,6 @@ Linux                    37 hrs 25 mins      ███████████�
 🎮 Live2DViewerEX                   🕘 25 hrs 5 mins
 🎮 Apex Legends                     🕘 4 hrs 31 mins
 🎮 NEEDY GIRL OVERDOSE              🕘 3 hrs 24 mins
-🎮 Aim Lab                          🕘 0 hrs 5 mins
 ```
 Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- steam-box end -->
