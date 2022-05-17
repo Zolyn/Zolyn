@@ -1,7 +1,9 @@
 # Hi ✨
-This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle school student.
+I'm Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle school student.
 
-## I am learning ...
+## I'm currently learning ...
+<img align="right" width="200px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -17,29 +19,8 @@ This is Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle scho
 ![Electron.js](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 
-## I am currenly working on ...
+## I'm currenly working on ...
 - [vite-plugin-vue-type-imports](https://github.com/Zolyn/vite-plugin-vue-type-imports) : Import types in Vue SFC for defineProps
-
-## My work environment
-<img align="right" width="240px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
-
-### Softwares
-![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Windows11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white)
-![MIUI Phone](https://img.shields.io/badge/MIUI_12.5-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![MIUI Pad](https://img.shields.io/badge/MIUI_13-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
-
-### Hardwares, Devices
-![Ryzen 5 5600X](https://img.shields.io/badge/AMD%20Ryzen_5_5600X-ED1C24?style=flat-square&logo=amd&logoColor=white)
-![Radeon RX6600](https://img.shields.io/badge/AMD%20Radeon_RX_6600-ED1C24?style=flat-square&logo=amd&logoColor=white)
-
-![Redmi Router](https://img.shields.io/badge/Redmi_Router_AX6S-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![Redmi K30 Ultra](https://img.shields.io/badge/Redmi_K30_Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
-![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi_Pad_5-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 
 ## My blog
 [![Arcadia](https://shields.io/badge/Arcadia-377bb5?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.zorin.icu)
@@ -168,6 +149,28 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
+</details>
+
+<details>
+<summary> My work environment </summary>
+
+### Softwares
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Windows11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white)
+![MIUI Phone](https://img.shields.io/badge/MIUI_12.5-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![MIUI Pad](https://img.shields.io/badge/MIUI_13-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
+
+### Hardwares, Devices
+![Ryzen 5 5600X](https://img.shields.io/badge/AMD%20Ryzen_5_5600X-ED1C24?style=flat-square&logo=amd&logoColor=white)
+![Radeon RX6600](https://img.shields.io/badge/AMD%20Radeon_RX_6600-ED1C24?style=flat-square&logo=amd&logoColor=white)
+
+![Redmi Router](https://img.shields.io/badge/Redmi_Router_AX6S-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![Redmi K30 Ultra](https://img.shields.io/badge/Redmi_K30_Ultra-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
+![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi_Pad_5-FF6900?style=flat-square&logo=xiaomi&logoColor=white)
 </details>
 
 <details>
