@@ -163,8 +163,8 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 6. 9876734123 ("Hyperprime" Full Version) - Silentroom  ·  4 plays
 7. X7124 ("The Blue" Full Version) - Silentroom  ·  4 plays
 8. Untrodden Morn ("Uncharted" Full Version) - Silentroom  ·  4 plays
-9. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
-10. In My Heart -discovered- - Silentroom/ゆうゆ  ·  3 plays
+9. 地獄の業火で焼肉大会！？ - DiPathoS  ·  4 plays
+10. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
