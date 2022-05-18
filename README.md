@@ -1,5 +1,11 @@
-# Hi ✨
-I'm Zorin (aka Zolyn, Yumeoto Zorin), an ordinary and ineloquent middle school student.
+# Hi there ✨
+I'm Zorin (aka Zolyn, Yumeoto Zorin), a middle school student and Arch Linux user.
+
+I love open source and I'm trying my best to make things better.
+
+I love ACGN, EDM and Rhythm Games.
+
+Feel free to communicate with me. (Though I'm an ineloquent person.)
 
 ## I'm currently learning ...
 <img align="right" width="200px" src="https://cdn.jsdelivr.net/gh/Zolyn/Zolyn@master/img/suzu.jpeg" />
@@ -174,9 +180,10 @@ Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box)
 </details>
 
 <details>
-<summary> NOTES: </summary>
+<summary> NOTES </summary>
 
    - The surname "Yumeoto" comes from a Vtuber called [Yumeoto Chano](https://space.bilibili.com/140378). And the name "Zorin" comes from [Zorin OS](https://zorin.com/os).
 - The person on the [right](https://github.com/Zolyn#my-work-environment) is [Hoshina Suzu](https://space.bilibili.com/1089059487), one of my favourite Vtubers. :D
 - The donation only supports Alipay, Wechat Pay and Tenpay payment since I am still a minor. :P
+- I'm trying to improve my English. If you find any grammatical mistakes, please correct them. :D
 </details>
