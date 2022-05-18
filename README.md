@@ -138,10 +138,10 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```text
 1. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  6 plays
 2. Fallensquare ("Arcade" Full Version) - Silentroom  ·  5 plays
-3. A Fairy with You - Endorfin.  ·  4 plays
-4. B-9 syndrome - Silentroom  ·  4 plays
-5. X7124 ("The Blue" Full Version) - Silentroom  ·  4 plays
-6. 地獄の業火で焼肉大会！？ - DiPathoS  ·  4 plays
+3. 地獄の業火で焼肉大会！？ - DiPathoS  ·  5 plays
+4. A Fairy with You - Endorfin.  ·  4 plays
+5. B-9 syndrome - Silentroom  ·  4 plays
+6. X7124 ("The Blue" Full Version) - Silentroom  ·  4 plays
 7. In My Heart (Reprise) - Silentroom  ·  3 plays
 8. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
 9. In My Heart -discovered- - Silentroom/ゆうゆ  ·  3 plays
