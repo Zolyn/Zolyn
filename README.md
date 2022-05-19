@@ -50,7 +50,7 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 ## Other things
 
 <details>
-<summary>Analytics</summary>
+<summary>Statistics</summary>
 
 ### Contribution Graph
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Zolyn&theme=react-dark&hide_border=true)
