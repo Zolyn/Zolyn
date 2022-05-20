@@ -148,9 +148,9 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 5. 哀煉獄歌 - DiPathoS  ·  4 plays
 6. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  3 plays
 7. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  3 plays
-8. In My Heart (Reprise) - Silentroom  ·  3 plays
-9. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  3 plays
-10. Ammon's Scotoma - Silentroom  ·  3 plays
+8. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  3 plays
+9. In My Heart (Reprise) - Silentroom  ·  3 plays
+10. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
