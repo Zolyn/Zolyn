@@ -141,16 +141,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. 地獄の業火で焼肉大会！？ - DiPathoS  ·  6 plays
-2. Fallensquare ("Arcade" Full Version) - Silentroom  ·  4 plays
-3. B-9 syndrome - Silentroom  ·  4 plays
-4. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  4 plays
-5. 哀煉獄歌 - DiPathoS  ·  4 plays
-6. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  3 plays
-7. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  3 plays
-8. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  3 plays
-9. In My Heart (Reprise) - Silentroom  ·  3 plays
-10. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  3 plays
+1. 地獄の業火で焼肉大会！？ - DiPathoS  ·  5 plays
+2. 哀煉獄歌 - DiPathoS  ·  3 plays
+3. 地獄の業火で焼肉大会！？(instrumental) - DiPathoS  ·  3 plays
+4. 哀煉獄歌 (instrumental) - DiPathoS  ·  3 plays
+5. Re:voltage - DiPathoS  ·  3 plays
+6. Tendaness Air -追憶- - DiPathoS  ·  3 plays
+7. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
+8. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
+9. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  2 plays
+10. In My Heart (Reprise) - Silentroom  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
