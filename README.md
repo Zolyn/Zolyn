@@ -146,11 +146,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 3. B-9 syndrome - Silentroom  ·  4 plays
 4. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  4 plays
 5. 哀煉獄歌 - DiPathoS  ·  4 plays
-6. In My Heart (Reprise) - Silentroom  ·  3 plays
-7. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  3 plays
-8. Ammon's Scotoma - Silentroom  ·  3 plays
-9. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
-10. In My Heart -discovered- - Silentroom/ゆうゆ  ·  3 plays
+6. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  3 plays
+7. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  3 plays
+8. In My Heart (Reprise) - Silentroom  ·  3 plays
+9. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  3 plays
+10. Ammon's Scotoma - Silentroom  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
