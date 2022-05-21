@@ -142,15 +142,15 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. 地獄の業火で焼肉大会！？ - DiPathoS  ·  5 plays
-2. 哀煉獄歌 - DiPathoS  ·  3 plays
-3. 地獄の業火で焼肉大会！？(instrumental) - DiPathoS  ·  3 plays
-4. 哀煉獄歌 (instrumental) - DiPathoS  ·  3 plays
-5. Re:voltage - DiPathoS  ·  3 plays
-6. Tendaness Air -追憶- - DiPathoS  ·  3 plays
-7. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
-8. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
-9. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  2 plays
-10. In My Heart (Reprise) - Silentroom  ·  2 plays
+2. Random (Take #8) - Sobrem/Silentroom  ·  3 plays
+3. 喜劇 - 星野源  ·  3 plays
+4. 哀煉獄歌 - DiPathoS  ·  3 plays
+5. 地獄の業火で焼肉大会！？(instrumental) - DiPathoS  ·  3 plays
+6. 哀煉獄歌 (instrumental) - DiPathoS  ·  3 plays
+7. Re:voltage - DiPathoS  ·  3 plays
+8. Tendaness Air -追憶- - DiPathoS  ·  3 plays
+9. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
+10. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
