@@ -139,16 +139,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. 地獄の業火で焼肉大会！？ - DiPathoS  ·  4 plays
-2. 地獄の業火で焼肉大会！？(instrumental) - DiPathoS  ·  3 plays
-3. 哀煉獄歌 (instrumental) - DiPathoS  ·  3 plays
-4. Re:voltage - DiPathoS  ·  3 plays
-5. Tendaness Air -追憶- - DiPathoS  ·  3 plays
-6. Random (Take #8) - Sobrem/Silentroom  ·  2 plays
-7. 喜劇 - 星野源  ·  2 plays
-8. Random - Sobrem/Silentroom  ·  2 plays
-9. 哀煉獄歌 - DiPathoS  ·  2 plays
-10. Inverse World - DiPathoS  ·  2 plays
+1. 地獄の業火で焼肉大会！？ - DiPathoS  ·  5 plays
+2. 地獄の業火で焼肉大会！？(instrumental) - DiPathoS  ·  4 plays
+3. 哀煉獄歌 (instrumental) - DiPathoS  ·  4 plays
+4. Re:voltage - DiPathoS  ·  4 plays
+5. Tendaness Air -追憶- - DiPathoS  ·  4 plays
+6. 哀煉獄歌 - DiPathoS  ·  3 plays
+7. Inverse World - DiPathoS  ·  3 plays
+8. verities - DiPathoS  ·  3 plays
+9. 双晶のコバルトブルー - DiPathoS  ·  3 plays
+10. 翼の折れた天使たちのレクイエム - DiPathoS  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
