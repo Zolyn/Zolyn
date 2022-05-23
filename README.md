@@ -139,11 +139,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 3. 哀煉獄歌 (instrumental) - DiPathoS  ·  4 plays
 4. Re:voltage - DiPathoS  ·  4 plays
 5. Tendaness Air -追憶- - DiPathoS  ·  4 plays
-6. 哀煉獄歌 - DiPathoS  ·  3 plays
-7. Inverse World - DiPathoS  ·  3 plays
-8. verities - DiPathoS  ·  3 plays
-9. 双晶のコバルトブルー - DiPathoS  ·  3 plays
-10. 翼の折れた天使たちのレクイエム - DiPathoS  ·  3 plays
+6. Random (Take #8) - Sobrem/Silentroom  ·  3 plays
+7. 喜劇 - 星野源  ·  3 plays
+8. Random - Sobrem/Silentroom  ·  3 plays
+9. 哀煉獄歌 - DiPathoS  ·  3 plays
+10. Inverse World - DiPathoS  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
