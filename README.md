@@ -134,7 +134,7 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. 地獄の業火で焼肉大会！？ - DiPathoS  ·  5 plays
+1. 地獄の業火で焼肉大会！？ - DiPathoS  ·  4 plays
 2. 地獄の業火で焼肉大会！？(instrumental) - DiPathoS  ·  4 plays
 3. 哀煉獄歌 (instrumental) - DiPathoS  ·  4 plays
 4. Re:voltage - DiPathoS  ·  4 plays
