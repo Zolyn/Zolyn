@@ -142,8 +142,8 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 6. 翼の折れた天使たちのレクイエム - DiPathoS  ·  4 plays
 7. Re:voltage - DiPathoS  ·  4 plays
 8. Tendaness Air -追憶- - DiPathoS  ·  4 plays
-9. In My Heart (Reprise) - Silentroom  ·  3 plays
-10. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  3 plays
+9. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  3 plays
+10. In My Heart (Reprise) - Silentroom  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
