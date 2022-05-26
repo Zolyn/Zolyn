@@ -135,15 +135,15 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  3 plays
-2. In My Heart (Reprise) - Silentroom  ·  3 plays
-3. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  3 plays
-4. Ammon's Scotoma - Silentroom  ·  3 plays
-5. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
-6. In My Heart -discovered- - Silentroom/ゆうゆ  ·  3 plays
-7. Variations on Silent Rhapsody - Silentroom/Sobrem  ·  3 plays
-8. Angel Echo -L'appel du vide- - Silentroom/Frums  ·  3 plays
-9. META-morphose (BilliumMoto Remix) - Silentroom/BilliumMoto  ·  3 plays
-10. Fallensquare ("Arcade" Full Version) - Silentroom  ·  3 plays
+2. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  3 plays
+3. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  3 plays
+4. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  3 plays
+5. Recollection - Kobaryo  ·  3 plays
+6. In My Heart (Reprise) - Silentroom  ·  3 plays
+7. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  3 plays
+8. Ammon's Scotoma - Silentroom  ·  3 plays
+9. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
+10. In My Heart -discovered- - Silentroom/ゆうゆ  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
