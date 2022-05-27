@@ -66,7 +66,7 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59%20Thousand%20lines%20of%20code-blue)
 
@@ -84,10 +84,10 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 ```text
 Monday       180 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
 Tuesday      130 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
-Wednesday    128 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
+Wednesday    127 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
 Thursday     82 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
 Friday       156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
-Saturday     237 commits    █████░░░░░░░░░░░░░░░░░░░░   20.64% 
+Saturday     238 commits    █████░░░░░░░░░░░░░░░░░░░░   20.73% 
 Sunday       235 commits    █████░░░░░░░░░░░░░░░░░░░░   20.47%
 
 ```
@@ -99,21 +99,21 @@ Sunday       235 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 hrs 8 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  5 hrs 8 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vite-plugin-vue-type-impo5 hrs 8 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/05/2022 18:37:36 UTC
+ Last Updated on 27/05/2022 21:28:44 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
