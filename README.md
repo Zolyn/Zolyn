@@ -66,29 +66,29 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C017%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    78 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.81% 
-🌆 Daytime    282 commits    ██████░░░░░░░░░░░░░░░░░░░   24.63% 
-🌃 Evening    537 commits    ███████████░░░░░░░░░░░░░░   46.9% 
-🌙 Night      248 commits    █████░░░░░░░░░░░░░░░░░░░░   21.66%
+🌞 Morning    82 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+🌆 Daytime    281 commits    ██████░░░░░░░░░░░░░░░░░░░   24.48% 
+🌃 Evening    537 commits    ███████████░░░░░░░░░░░░░░   46.78% 
+🌙 Night      248 commits    █████░░░░░░░░░░░░░░░░░░░░   21.6%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       180 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Tuesday      134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
-Wednesday    130 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.35% 
-Thursday     82 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
-Friday       147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-Saturday     237 commits    █████░░░░░░░░░░░░░░░░░░░░   20.7% 
-Sunday       235 commits    █████░░░░░░░░░░░░░░░░░░░░   20.52%
+Monday       180 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Tuesday      133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
+Wednesday    130 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
+Thursday     82 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Friday       151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
+Saturday     237 commits    █████░░░░░░░░░░░░░░░░░░░░   20.64% 
+Sunday       235 commits    █████░░░░░░░░░░░░░░░░░░░░   20.47%
 
 ```
 
@@ -113,7 +113,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/05/2022 02:07:59 UTC
+ Last Updated on 27/05/2022 04:02:41 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
