@@ -134,16 +134,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
-2. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
-3. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  2 plays
-4. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
-5. Recollection - Kobaryo  ·  2 plays
-6. Volatile Memory - Kobaryo/DJ Genki  ·  2 plays
-7. Sulyvahn - Kobaryo/USAO  ·  2 plays
-8. Galaxy Friends - Kobaryo  ·  2 plays
-9. Blackbird - Kobaryo  ·  2 plays
-10. CLIMAX - lapix/USAO  ·  2 plays
+1. Volatile Memory - Kobaryo/DJ Genki  ·  3 plays
+2. Sulyvahn - Kobaryo/USAO  ·  3 plays
+3. Blackbird - Kobaryo  ·  3 plays
+4. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  3 plays
+5. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
+6. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
+7. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  2 plays
+8. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
+9. Recollection - Kobaryo  ·  2 plays
+10. Eternal Ending - Kobaryo  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
