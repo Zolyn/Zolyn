@@ -139,11 +139,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 3. Blackbird - Kobaryo  ·  3 plays
 4. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  3 plays
 5. SUPER MEMORIES X  - Kobaryo/HiTNEX-X  ·  3 plays
-6. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
-7. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
-8. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  2 plays
-9. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
-10. Recollection - Kobaryo  ·  2 plays
+6. 哀煉獄歌 - DiPathoS  ·  3 plays
+7. 地獄の業火で焼肉大会！？ - DiPathoS  ·  3 plays
+8. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
+9. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
+10. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
