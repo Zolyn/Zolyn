@@ -137,16 +137,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. 哀煉獄歌 - DiPathoS  ·  3 plays
-2. 地獄の業火で焼肉大会！？ - DiPathoS  ·  3 plays
-3. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
-4. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
-5. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  2 plays
-6. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
-7. Recollection - Kobaryo  ·  2 plays
-8. Eternal Ending - Kobaryo  ·  2 plays
-9. Chocolate Lily - Kobaryo  ·  2 plays
-10. HUG AND KILL - Kobaryo  ·  2 plays
+1. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  2 plays
+2. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  2 plays
+3. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  2 plays
+4. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  2 plays
+5. Recollection - Kobaryo  ·  2 plays
+6. Eternal Ending - Kobaryo  ·  2 plays
+7. Chocolate Lily - Kobaryo  ·  2 plays
+8. HUG AND KILL - Kobaryo  ·  2 plays
+9. Volatile Memory - Kobaryo/DJ Genki  ·  2 plays
+10. Sulyvahn - Kobaryo/USAO  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
