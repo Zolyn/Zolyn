@@ -66,7 +66,7 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C029%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59%20Thousand%20lines%20of%20code-blue)
 
@@ -85,10 +85,10 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 Monday       180 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
 Tuesday      130 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
 Wednesday    118 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-Thursday     73 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
+Thursday     72 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
 Friday       156 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
 Saturday     249 commits    █████░░░░░░░░░░░░░░░░░░░░   21.65% 
-Sunday       244 commits    █████░░░░░░░░░░░░░░░░░░░░   21.22%
+Sunday       245 commits    █████░░░░░░░░░░░░░░░░░░░░   21.3%
 
 ```
 
@@ -113,7 +113,7 @@ Linux                    6 hrs 28 mins       ███████████�
 ```
 
 
- Last Updated on 29/05/2022 12:46:13 UTC
+ Last Updated on 29/05/2022 15:30:15 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
