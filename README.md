@@ -140,16 +140,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. In My Heart (Reprise) - Silentroom  ·  2 plays
-2. Aegleseeker ("Afterworld" Full Version) - Silentroom/Frums  ·  2 plays
-3. Ammon's Scotoma - Silentroom  ·  2 plays
-4. 虹が降る街 - Silentroom/やどりぎ  ·  2 plays
-5. In My Heart -discovered- - Silentroom/ゆうゆ  ·  2 plays
-6. Variations on Silent Rhapsody - Silentroom/Sobrem  ·  2 plays
-7. Angel Echo -L'appel du vide- - Silentroom/Frums  ·  2 plays
-8. META-morphose (BilliumMoto Remix) - Silentroom/BilliumMoto  ·  2 plays
-9. Sense ("Leads to Another" Full Version) - Silentroom/BilliumMoto  ·  2 plays
-10. X7124 ("The Blue" Full Version) - Silentroom  ·  2 plays
+1. 虹が降る街 - Silentroom/やどりぎ  ·  2 plays
+2. In My Heart -discovered- - Silentroom/ゆうゆ  ·  2 plays
+3. 哀煉獄歌 - DiPathoS  ·  2 plays
+4. 地獄の業火で焼肉大会！？ - DiPathoS  ·  2 plays
+5. SEITEN NO TERIYAKI NO DENSETSU - Kobaryo  ·  1 plays
+6. Galaxy Friends (tpz Overheat Remix) - Kobaryo/t+pazolite  ·  1 plays
+7. Eternal Ending (kyou1110 Remix) - Kobaryo/kyou1110  ·  1 plays
+8. Tool-Assisted Speedcore (TQBF Frame Advance RMX) - Kobaryo/The Quick Brown Fox  ·  1 plays
+9. Recollection - Kobaryo  ·  1 plays
+10. Eternal Ending - Kobaryo  ·  1 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
