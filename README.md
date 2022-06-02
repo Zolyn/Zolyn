@@ -1,4 +1,4 @@
-# Hi there ✨
+# Greetings ✨
 I'm Zorin (aka Zolyn, Yumeoto Zorin), a middle school student and an Arch Linux user.
 
 I love open source and I'm trying my best to make things better.
