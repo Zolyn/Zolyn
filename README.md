@@ -144,16 +144,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. IMPACT - USAO/光吉猛修  ·  3 plays
-2. Perfect Army - USAO  ·  3 plays
-3. Punish - USAO  ·  3 plays
-4. You Got Me - USAO/Shandy kubota  ·  3 plays
-5. Liberate - USAO  ·  3 plays
-6. Wildfire - USAO  ·  3 plays
-7. Eternal Ending - Kobaryo  ·  2 plays
-8. Chocolate Lily - Kobaryo  ·  2 plays
-9. HUG AND KILL - Kobaryo  ·  2 plays
-10. Volatile Memory - Kobaryo/DJ Genki  ·  2 plays
+1. SUPER MEMORIES - Kobaryo  ·  3 plays
+2. IMPACT - USAO/光吉猛修  ·  3 plays
+3. Perfect Army - USAO  ·  3 plays
+4. Phalanx - USAO  ·  3 plays
+5. Punish - USAO  ·  3 plays
+6. You Got Me - USAO/Shandy kubota  ·  3 plays
+7. Liberate - USAO  ·  3 plays
+8. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  3 plays
+9. SUPER MEMORIES X  - Kobaryo/HiTNEX-X  ·  3 plays
+10. Wildfire - USAO  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
