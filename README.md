@@ -141,16 +141,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Eternal Ending - Kobaryo  ·  2 plays
-2. Chocolate Lily - Kobaryo  ·  2 plays
-3. HUG AND KILL - Kobaryo  ·  2 plays
-4. Volatile Memory - Kobaryo/DJ Genki  ·  2 plays
-5. Sulyvahn - Kobaryo/USAO  ·  2 plays
-6. Blackbird - Kobaryo  ·  2 plays
-7. SUPER MEMORIES - Kobaryo  ·  2 plays
-8. 5 - 岡本光市  ·  2 plays
-9. 1 - 岡本光市  ·  2 plays
-10. OMG - USAO  ·  2 plays
+1. IMPACT - USAO/光吉猛修  ·  3 plays
+2. Perfect Army - USAO  ·  3 plays
+3. Punish - USAO  ·  3 plays
+4. You Got Me - USAO/Shandy kubota  ·  3 plays
+5. Liberate - USAO  ·  3 plays
+6. Wildfire - USAO  ·  3 plays
+7. Eternal Ending - Kobaryo  ·  2 plays
+8. Chocolate Lily - Kobaryo  ·  2 plays
+9. HUG AND KILL - Kobaryo  ·  2 plays
+10. Volatile Memory - Kobaryo/DJ Genki  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
