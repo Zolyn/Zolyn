@@ -129,7 +129,7 @@ Linux                    18 hrs 55 mins      ███████████�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 157 hrs 49 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 143 hrs 12 mins
-💻 Wallpaper Engine                 🕘 36 hrs 2 mins
+💻 Wallpaper Engine                 🕘 36 hrs 4 mins
 🎮 Live2DViewerEX                   🕘 25 hrs 5 mins
 🎮 Apex Legends                     🕘 4 hrs 31 mins
 🎮 NEEDY GIRL OVERDOSE              🕘 3 hrs 24 mins
