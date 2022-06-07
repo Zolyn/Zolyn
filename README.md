@@ -186,5 +186,5 @@ Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box)
    - The surname "Yumeoto" comes from a Vtuber called [Yumeoto Chano](https://space.bilibili.com/140378). And the name "Zorin" comes from [Zorin OS](https://zorin.com/os).
 - The person on the [right](https://github.com/Zolyn#my-work-environment) is [Hoshina Suzu](https://space.bilibili.com/1089059487), one of my favourite Vtubers. :D
 - The donation only supports Alipay, Wechat Pay and Tenpay payment since I am still a minor. :P
-- I'm trying to improve my English. If you find any grammatical mistakes, please correct them. :D
+- I'm trying to improve my English. If you find any grammatical mistakes, feel free to make a PR to correct them. :D
 </details>
