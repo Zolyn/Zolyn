@@ -143,16 +143,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. SUPER MEMORIES - Kobaryo  ·  5 plays
-2. Phalanx - USAO  ·  5 plays
-3. Punish - USAO  ·  5 plays
-4. IMPACT - USAO/光吉猛修  ·  4 plays
-5. SUPER MEMORIES X  - Kobaryo/HiTNEX-X  ·  4 plays
-6. ω4 - 穴山大輔/光吉猛修/Kai  ·  4 plays
-7. Perfect Army - USAO  ·  3 plays
-8. You Got Me - USAO/Shandy kubota  ·  3 plays
-9. Liberate - USAO  ·  3 plays
-10. Wildfire - USAO  ·  3 plays
+1. Punish - USAO  ·  4 plays
+2. ω4 - 穴山大輔/光吉猛修/Kai  ·  4 plays
+3. IMPACT - USAO/光吉猛修  ·  3 plays
+4. Perfect Army - USAO  ·  3 plays
+5. Phalanx - USAO  ·  3 plays
+6. You Got Me - USAO/Shandy kubota  ·  3 plays
+7. Liberate - USAO  ·  3 plays
+8. Wildfire - USAO  ·  3 plays
+9. SUPER MEMORIES - Kobaryo  ·  2 plays
+10. 5 - 岡本光市  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
