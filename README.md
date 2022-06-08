@@ -143,16 +143,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Punish - USAO  ·  5 plays
-2. ω4 - 穴山大輔/光吉猛修/Kai  ·  5 plays
-3. IMPACT - USAO/光吉猛修  ·  4 plays
-4. Perfect Army - USAO  ·  4 plays
-5. You Got Me - USAO/Shandy kubota  ·  4 plays
-6. Liberate - USAO  ·  4 plays
-7. SUPER MEMORIES - Kobaryo  ·  3 plays
-8. Phalanx - USAO  ·  3 plays
-9. Wildfire - USAO  ·  3 plays
-10. 5 - 岡本光市  ·  2 plays
+1. IMPACT - USAO/光吉猛修  ·  5 plays
+2. Punish - USAO  ·  5 plays
+3. ω4 - 穴山大輔/光吉猛修/Kai  ·  5 plays
+4. SUPER MEMORIES - Kobaryo  ·  4 plays
+5. Perfect Army - USAO  ·  4 plays
+6. Phalanx - USAO  ·  4 plays
+7. You Got Me - USAO/Shandy kubota  ·  4 plays
+8. Liberate - USAO  ·  4 plays
+9. Cryptochrome - Au5  ·  3 plays
+10. Wildfire - USAO  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
