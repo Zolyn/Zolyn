@@ -151,8 +151,8 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 6. ω4 - 穴山大輔/光吉猛修/Kai  ·  3 plays
 7. Cryptochrome - Au5  ·  2 plays
 8. Perfect Army - USAO  ·  2 plays
-9. Liberate - USAO  ·  2 plays
-10. Alone Time - TEMPOREX  ·  1 plays
+9. ラグナロク恋歌 (feat. An) - USAO/An  ·  2 plays
+10. Liberate - USAO  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
