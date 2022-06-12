@@ -144,11 +144,11 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. SUPER MEMORIES - Kobaryo  ·  4 plays
-2. IMPACT - USAO/光吉猛修  ·  3 plays
-3. Perfect Army - USAO  ·  3 plays
-4. ラグナロク恋歌 (feat. An) - USAO/An  ·  3 plays
-5. Phalanx - USAO  ·  3 plays
-6. Punish - USAO  ·  3 plays
+2. IMPACT - USAO/光吉猛修  ·  4 plays
+3. Punish - USAO  ·  4 plays
+4. Perfect Army - USAO  ·  3 plays
+5. ラグナロク恋歌 (feat. An) - USAO/An  ·  3 plays
+6. Phalanx - USAO  ·  3 plays
 7. Liberate - USAO  ·  3 plays
 8. Blows Up Everything - USAO  ·  3 plays
 9. BATTLE NO.1 - HARDCORE TANO*C  ·  3 plays
