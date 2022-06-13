@@ -153,7 +153,7 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 7. Liberate - USAO  ·  4 plays
 8. Blows Up Everything - USAO  ·  4 plays
 9. BATTLE NO.1 - HARDCORE TANO*C  ·  4 plays
-10. Tapioca - USAO  ·  3 plays
+10. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
