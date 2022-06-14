@@ -66,7 +66,7 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65%20Thousand%20lines%20of%20code-blue)
 
@@ -75,8 +75,8 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 ```text
 🌞 Morning    68 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
 🌆 Daytime    201 commits    █████░░░░░░░░░░░░░░░░░░░░   22.06% 
-🌃 Evening    428 commits    ███████████░░░░░░░░░░░░░░   46.98% 
-🌙 Night      214 commits    █████░░░░░░░░░░░░░░░░░░░░   23.49%
+🌃 Evening    427 commits    ███████████░░░░░░░░░░░░░░   46.87% 
+🌙 Night      215 commits    ██████░░░░░░░░░░░░░░░░░░░   23.6%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -84,10 +84,10 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 ```text
 Monday       178 commits    █████░░░░░░░░░░░░░░░░░░░░   19.54% 
 Tuesday      112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
-Wednesday    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
+Wednesday    96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
 Thursday     53 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.82% 
 Friday       122 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Saturday     157 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.23% 
+Saturday     156 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.12% 
 Sunday       194 commits    █████░░░░░░░░░░░░░░░░░░░░   21.3%
 
 ```
@@ -99,21 +99,21 @@ Sunday       194 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-www                      28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 14/06/2022 18:36:21 UTC
+ Last Updated on 14/06/2022 21:24:56 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
