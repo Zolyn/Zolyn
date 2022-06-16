@@ -142,9 +142,9 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 5. 虹が降る街 - Silentroom/やどりぎ  ·  3 plays
 6. Lau-Fi - Laur  ·  3 plays
 7. Tapioca - USAO  ·  3 plays
-8. IMPACT - USAO/光吉猛修  ·  3 plays
-9. Perfect Army - USAO  ·  3 plays
-10. LOVE LOVE SWEET SONG (feat. blaxervant) - Kobaryo/blaxervant  ·  3 plays
+8. Perfect Army - USAO  ·  3 plays
+9. LOVE LOVE SWEET SONG (feat. blaxervant) - Kobaryo/blaxervant  ·  3 plays
+10. your love is my drug - 春风知几许  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
