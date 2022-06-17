@@ -66,29 +66,29 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    67 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.33% 
-🌆 Daytime    203 commits    █████░░░░░░░░░░░░░░░░░░░░   22.21% 
-🌃 Evening    425 commits    ███████████░░░░░░░░░░░░░░   46.5% 
-🌙 Night      219 commits    ██████░░░░░░░░░░░░░░░░░░░   23.96%
+🌞 Morning    67 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+🌆 Daytime    203 commits    █████░░░░░░░░░░░░░░░░░░░░   22.19% 
+🌃 Evening    425 commits    ███████████░░░░░░░░░░░░░░   46.45% 
+🌙 Night      220 commits    ██████░░░░░░░░░░░░░░░░░░░   24.04%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       170 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-Tuesday      105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Wednesday    105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
+Monday       170 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+Tuesday      104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
+Wednesday    105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
 Thursday     62 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
-Friday       133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Saturday     154 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
-Sunday       185 commits    █████░░░░░░░░░░░░░░░░░░░░   20.24%
+Friday       134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Saturday     155 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
+Sunday       185 commits    █████░░░░░░░░░░░░░░░░░░░░   20.22%
 
 ```
 
@@ -113,7 +113,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/06/2022 15:31:42 UTC
+ Last Updated on 17/06/2022 18:36:36 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
