@@ -144,15 +144,15 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. 勇敢勇敢 - 黄勇  ·  5 plays
-2. BATTLE NO.1 - HARDCORE TANO*C  ·  3 plays
-3. Angel Echo - Silentroom  ·  3 plays
-4. Galaxy Friends - Kobaryo  ·  2 plays
-5. CLIMAX - lapix/USAO  ·  2 plays
-6. 虹が降る街 - Silentroom/やどりぎ  ·  2 plays
-7. Lau-Fi - Laur  ·  2 plays
-8. Möbius - USAO/かめりあ  ·  2 plays
-9. Chara - BilliumMoto/ZxNX  ·  2 plays
-10. IMPACT - USAO/光吉猛修  ·  2 plays
+2. Angel Echo - Silentroom  ·  4 plays
+3. Galaxy Friends - Kobaryo  ·  3 plays
+4. CLIMAX - lapix/USAO  ·  3 plays
+5. Möbius - USAO/かめりあ  ·  3 plays
+6. Chara - BilliumMoto/ZxNX  ·  3 plays
+7. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  3 plays
+8. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
+9. Invisible Frenzy -Genuine Version- - Kobaryo  ·  3 plays
+10. Crunchy Crown Coaster - Kobaryo  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
