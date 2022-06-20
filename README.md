@@ -144,14 +144,14 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
 1. 勇敢勇敢 - 黄勇  ·  5 plays
-2. Angel Echo - Silentroom  ·  5 plays
-3. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  4 plays
-4. Invisible Frenzy -Genuine Version- - Kobaryo  ·  4 plays
-5. Galaxy Friends - Kobaryo  ·  3 plays
-6. CLIMAX - lapix/USAO  ·  3 plays
-7. Möbius - USAO/かめりあ  ·  3 plays
-8. Chara - BilliumMoto/ZxNX  ·  3 plays
-9. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
+2. Angel Echo - Silentroom  ·  4 plays
+3. Galaxy Friends - Kobaryo  ·  3 plays
+4. CLIMAX - lapix/USAO  ·  3 plays
+5. Möbius - USAO/かめりあ  ·  3 plays
+6. Chara - BilliumMoto/ZxNX  ·  3 plays
+7. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  3 plays
+8. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
+9. Invisible Frenzy -Genuine Version- - Kobaryo  ·  3 plays
 10. Crunchy Crown Coaster - Kobaryo  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
