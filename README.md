@@ -135,6 +135,7 @@ Linux                    12 hrs 1 min        ███████████�
 🎮 Apex Legends                     🕘 4 hrs 31 mins
 🎮 NEEDY GIRL OVERDOSE              🕘 3 hrs 24 mins
 🎮 ARK: Survival Evolved            🕘 0 hrs 0 mins
+🎮 ARK: Survival Of The Fittest     🕘 0 hrs 0 mins
 ```
 Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- steam-box end -->
