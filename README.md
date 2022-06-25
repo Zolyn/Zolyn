@@ -153,7 +153,7 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 7. Galaxy Friends - Kobaryo  ·  4 plays
 8. CLIMAX - lapix/USAO  ·  4 plays
 9. Chara - BilliumMoto/ZxNX  ·  4 plays
-10. Invisible Frenzy -Genuine Version- - Kobaryo  ·  4 plays
+10. れっつ！みらくる☆はーどこあっ！ (feat. みしゃも) - Laur/みしゃも  ·  4 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
