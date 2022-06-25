@@ -144,16 +144,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Möbius - USAO/かめりあ  ·  6 plays
-2. Angel Echo - Silentroom  ·  6 plays
-3. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  5 plays
-4. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  5 plays
-5. True Hero - Kobaryo  ·  5 plays
-6. Endless Adventure - Kobaryo  ·  5 plays
-7. Galaxy Friends - Kobaryo  ·  4 plays
-8. CLIMAX - lapix/USAO  ·  4 plays
-9. Chara - BilliumMoto/ZxNX  ·  4 plays
-10. れっつ！みらくる☆はーどこあっ！ (feat. みしゃも) - Laur/みしゃも  ·  4 plays
+1. Möbius - USAO/かめりあ  ·  4 plays
+2. れっつ！みらくる☆はーどこあっ！ (feat. みしゃも) - Laur/みしゃも  ·  4 plays
+3. Angel Echo - Silentroom  ·  4 plays
+4. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  3 plays
+5. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
+6. True Hero - Kobaryo  ·  3 plays
+7. Endless Adventure - Kobaryo  ·  3 plays
+8. Galaxy Friends - Kobaryo  ·  2 plays
+9. CLIMAX - lapix/USAO  ·  2 plays
+10. san skia - yourmythos  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
