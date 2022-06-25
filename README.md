@@ -146,14 +146,14 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 ```text
 1. Möbius - USAO/かめりあ  ·  6 plays
 2. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  5 plays
-3. True Hero - Kobaryo  ·  5 plays
-4. Endless Adventure - Kobaryo  ·  5 plays
-5. CLIMAX - lapix/USAO  ·  4 plays
-6. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  4 plays
-7. Invisible Frenzy -Genuine Version- - Kobaryo  ·  4 plays
-8. Crunchy Crown Coaster - Kobaryo  ·  4 plays
-9. Fire in the Milk   - Kobaryo/DJ NECOJITA  ·  4 plays
-10. Start of the Determination - Kobaryo  ·  4 plays
+3. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  5 plays
+4. True Hero - Kobaryo  ·  5 plays
+5. Endless Adventure - Kobaryo  ·  5 plays
+6. Angel Echo - Silentroom  ·  5 plays
+7. CLIMAX - lapix/USAO  ·  4 plays
+8. Invisible Frenzy -Genuine Version- - Kobaryo  ·  4 plays
+9. Crunchy Crown Coaster - Kobaryo  ·  4 plays
+10. Fire in the Milk   - Kobaryo/DJ NECOJITA  ·  4 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
