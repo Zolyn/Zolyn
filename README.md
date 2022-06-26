@@ -150,10 +150,10 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 4. Angel Echo - Silentroom  ·  4 plays
 5. Telophase - An  ·  3 plays
 6. Vestige - BlackY  ·  3 plays
-7. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  3 plays
-8. Invisible Frenzy (Camellia's "593: Insanely Fluctuated" Remix) - Kobaryo/かめりあ  ·  3 plays
-9. True Hero - Kobaryo  ·  3 plays
-10. Endless Adventure - Kobaryo  ·  3 plays
+7. Polaris - Frums  ·  3 plays
+8. Antler - Juggernaut.  ·  3 plays
+9. Koli - Sobrem  ·  3 plays
+10. Endless Adventure (USAO Remix) - USAO/Kobaryo  ·  3 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
