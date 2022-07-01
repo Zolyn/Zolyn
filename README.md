@@ -137,9 +137,9 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. れっつ！みらくる☆はーどこあっ！ (feat. みしゃも) - Laur/みしゃも  ·  4 plays
-2. Like 1999 - Valley  ·  4 plays
-3. The Bolder Thing To Do - Gregory And The Hawk  ·  3 plays
+1. Like 1999 - Valley  ·  4 plays
+2. The Bolder Thing To Do - Gregory And The Hawk  ·  3 plays
+3. れっつ！みらくる☆はーどこあっ！ (feat. みしゃも) - Laur/みしゃも  ·  3 plays
 4. In My Heart (Reprise) - Silentroom  ·  2 plays
 5. Angel Echo -L'appel du vide- - Silentroom/Frums  ·  2 plays
 6. Daybreaker - EmoCosine  ·  2 plays
