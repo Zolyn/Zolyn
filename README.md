@@ -136,16 +136,16 @@ Powered by [Zolyn/steam-box](https://github.com/Zolyn/steam-box) .
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/bce069f1479aba28dacea0768b89ae04" target="_blank">🎵 My last week in music</a>
 ```text
-1. Like 1999 - Valley  ·  4 plays
-2. The Bolder Thing To Do - Gregory And The Hawk  ·  3 plays
+1. The Bolder Thing To Do - Gregory And The Hawk  ·  4 plays
+2. Like 1999 - Valley  ·  4 plays
 3. れっつ！みらくる☆はーどこあっ！ (feat. みしゃも) - Laur/みしゃも  ·  3 plays
-4. In My Heart (Reprise) - Silentroom  ·  2 plays
-5. Angel Echo -L'appel du vide- - Silentroom/Frums  ·  2 plays
-6. Daybreaker - EmoCosine  ·  2 plays
-7. サニーサイド・クローバー - Endorfin.  ·  2 plays
-8. 花残り、蕾ひとつ - Endorfin.  ·  2 plays
-9. A Fairy with You - Endorfin.  ·  2 plays
-10. nyabo.exe - ああああ/やどりぎ  ·  2 plays
+4. san skia - yourmythos  ·  2 plays
+5. In My Heart (Reprise) - Silentroom  ·  2 plays
+6. Angel Echo -L'appel du vide- - Silentroom/Frums  ·  2 plays
+7. Daybreaker - EmoCosine  ·  2 plays
+8. サニーサイド・クローバー - Endorfin.  ·  2 plays
+9. 花残り、蕾ひとつ - Endorfin.  ·  2 plays
+10. A Fairy with You - Endorfin.  ·  2 plays
 ```
 Powered by [Zolyn/netease-music-box](https://github.com/Zolyn/netease-music-box) .
 <!-- netease-music-box end -->
