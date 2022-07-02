@@ -66,16 +66,16 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 
 ### Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    56 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-🌆 Daytime    194 commits    █████░░░░░░░░░░░░░░░░░░░░   23.29% 
-🌃 Evening    375 commits    ███████████░░░░░░░░░░░░░░   45.02% 
+🌞 Morning    55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+🌆 Daytime    193 commits    █████░░░░░░░░░░░░░░░░░░░░   23.17% 
+🌃 Evening    377 commits    ███████████░░░░░░░░░░░░░░   45.26% 
 🌙 Night      208 commits    ██████░░░░░░░░░░░░░░░░░░░   24.97%
 
 ```
@@ -84,10 +84,10 @@ Feel free to communicate with me. (Though I'm an ineloquent person.)
 ```text
 Monday       169 commits    █████░░░░░░░░░░░░░░░░░░░░   20.29% 
 Tuesday      94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Wednesday    94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
+Wednesday    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
 Thursday     48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
 Friday       123 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
-Saturday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
+Saturday     145 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
 Sunday       162 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.45%
 
 ```
@@ -113,7 +113,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/07/2022 15:29:15 UTC
+ Last Updated on 02/07/2022 18:32:40 UTC
 <!--END_SECTION:waka-->
 
 ### Steam
